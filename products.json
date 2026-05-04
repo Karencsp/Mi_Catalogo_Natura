@@ -253,11 +253,11 @@
     "id": 26,
     "name": "Crema para peinar 180ml - Tododia",
     "price": 13600,
-    "stock": 1,
+    "stock": 2,
     "Color": "Flor de cereza y Palta",
     "category": "Todo Dia",
     "image": "assets/img/TD-CP-Cereza.PNG",
-    "description": "Jabones en barra 5 unidades."
+    "description": "Crema para peinar 180ml."
   },
   {
     "id": 27,
@@ -267,9 +267,19 @@
     "Color": "Durazno y Almendras",
     "category": "Todo Dia",
     "image": "assets/img/TD-CP-Durazno.PNG",
-    "description": "Jabones en barra 5 unidades."
+    "description": "Crema para peinar 180ml."
   },
   {
+    "id": 29,
+    "name": "Spray Brillo y Protección del Color 150ml - Lumina",
+    "price": 14960,
+    "stock": 1,
+    "Color": "Proteccion del color",
+    "category": "Lumina",
+    "image": "assets/img/Lumina-Spray-Color.PNG",
+    "description": "Spray Brillo y Protección del Color 150ml."
+  },
+    {
     "id": 28,
     "name": "Shampoo Antioleosidad 300ml - Lumina",
     "price": 11360,
@@ -277,16 +287,56 @@
     "Color": "Oleosidad",
     "category": "Lumina",
     "image": "assets/img/Lumina-SH-Oleosidad.PNG",
-    "description": "Jabones en barra 5 unidades."
+    "description": "Shampoo Antioleosidad 300ml."
   },
   {
-    "id": 29,
-    "name": "Spray Brillo y Protección del Color 150ml - Tododia",
-    "price": 14960,
+    "id": 35,
+    "name": "Shampoo Reparación 280ml - Tododia",
+    "price": 9400,
+    "stock": 2,
+    "Color": "Flor de cereza y Palta",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-SH-Cereza.PNG",
+    "description": "Shampoo Reparación 280ml."
+  },
+  {
+    "id": 36,
+    "name": "Shampoo Reparación 280ml - Tododia",
+    "price": 9400,
     "stock": 1,
-    "Color": "Proteccion del color",
+    "Color": "Durazno y Almendras",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-SH-Durazno.PNG",
+    "description": "Shampoo Reparación 280ml."
+  },
+    {
+    "id": 37,
+    "name": "Acondicionador Reparación 280ml - Tododia",
+    "price": 9400,
+    "stock": 2,
+    "Color": "Flor de cereza y Palta",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-AC-Cereza.PNG",
+    "description": "Acondicionador Reparación 280ml."
+  },
+  {
+    "id": 36,
+    "name": "Acondicionador Reparación 280ml - Tododia",
+    "price": 9400,
+    "stock": 1,
+    "Color": "Durazno y Almendras",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-AC-Durazno.PNG",
+    "description": "Acondicionador Reparación 280ml."
+  },
+  {
+    "id": 37,
+    "name": "Refill Acondicionador Hidratación 280ml - Tododia",
+    "price": 7600,
+    "stock": 1,
+    "Color": "Manzana Verde y Aloe Vera",
     "category": "Lumina",
-    "image": "assets/img/Lumina-Spray-Color.PNG",
-    "description": "Jabones en barra 5 unidades."
+    "image": "assets/img/TD-RF-AC-Manzana.PNG",
+    "description": "Refill Acondicionador Hidratación 280ml."
   }
 ]
