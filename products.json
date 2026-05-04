@@ -16,7 +16,7 @@
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
     "category": "Todo Dia",
-    "image": "assets/img/TD CNC limonGua.png",
+    "image": "assets/img/TD CNC limonGua.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -26,7 +26,7 @@
     "stock": 2,
     "Color": "Agua de coco y mango rosa",
     "category": "Todo Dia",
-    "image": "assets/img/TD CNC CocoMango.png",
+    "image": "assets/img/TD CNC CocoMango.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -36,7 +36,7 @@
     "stock": 1,
     "Color": "Té de Manzanilla y Lavanda",
     "category": "Todo Dia",
-    "image": "assets/img/TD CNC teLavanda.png",
+    "image": "assets/img/TD CNC teLavanda.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -46,7 +46,7 @@
     "stock": 1,
     "Color": "Pera y flor de loto",
     "category": "Todo Dia",
-    "image": "assets/img/TD CNC PeraLoto.png",
+    "image": "assets/img/TD CNC PeraLoto.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -56,7 +56,7 @@
     "stock": 1,
     "Color": "Cereza y Avellana",
     "category": "Todo Dia",
-    "image": "assets/img/TD CNC CerezaAvellana.png",
+    "image": "assets/img/TD CNC CerezaAvellana.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },    
   {
@@ -66,7 +66,7 @@
     "stock": 2,
     "Color": "Acerola y Hibisco",
     "category": "Todo Dia",
-    "image": "assets/img/TD_CNC_AcerolaHibiscus.png",
+    "image": "assets/img/TD_CNC_AcerolaHibiscus.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -76,7 +76,7 @@
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
     "category": "Todo Dia",
-    "image": "assets/img/td rf cnc limonGua.png",
+    "image": "assets/img/td rf cnc limonGua.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -86,7 +86,7 @@
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
     "category": "Todo Dia",
-    "image": "assets/img/td cnp limonGua.png",
+    "image": "assets/img/td cnp limonGua.PNG",
     "description": "Todo Dia Crema Nutritiva para pies."
   },
   {
@@ -96,7 +96,7 @@
     "stock": 1,
     "Color": "Ciruela y Flor de Vainilla",
     "category": "Todo Dia",
-    "image": "assets/img/TD CNM CiruelaVainilla.png",
+    "image": "assets/img/TD CNM CiruelaVainilla.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -106,7 +106,7 @@
     "stock": 1,
     "Color": "Cereza y Avellana",
     "category": "Todo Dia",
-    "image": "assets/img/TD CNM CerezaAvellana.png",
+    "image": "assets/img/TD CNM CerezaAvellana.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -116,7 +116,7 @@
     "stock": 2,
     "Color": "Pera y Flor de Loto",
     "category": "Todo Dia",
-    "image": "assets/img/TD Balsamo LOTO.png",
+    "image": "assets/img/TD Balsamo LOTO.PNG",
     "description": "Bálsamo Ultra Nutritivo Regenerador."
   },
   {
@@ -126,7 +126,7 @@
     "stock": 5,
     "Color": " Acerola e Hibisco Dorado Suave ",
     "category": "Todo Dia",
-    "image": "assets/img/TD Iluminador Bronze.png",
+    "image": "assets/img/TD Iluminador Bronze.PNG",
     "description": "Bronzer Iluminador Corporal 150 ml."
   },
   {
@@ -136,8 +136,9 @@
     "stock": 1,
     "Color": "",
     "category": "Solar",
-    "image": "assets/img/Solar StickPFS50.png",
-    "description": "Protector Solar Facial en Barra FPS 50 15g."  },
+    "image": "assets/img/Solar StickPFS50.PNG",
+    "description": "Protector Solar Facial en Barra FPS 50 15g."  
+  },
   {
     "id": 15,
     "name": "Protector Solar Corporal FPS 50 200 ml",
@@ -145,7 +146,7 @@
     "stock": 2,
     "Color": "FPS 50",
     "category": "Solar",
-    "image": "assets/img/Solar PFS50.png",
+    "image": "assets/img/Solar PFS50.PNG",
     "description": "Protector Solar Corporal FPS 50 200 ml."
   },
   {
@@ -155,7 +156,7 @@
     "stock": 3,
     "Color": "FPS 50 Piel Mixta a Grasa",
     "category": "Solar",
-    "image": "assets/img/Solar Facial PFS50 MixtaG.png",
+    "image": "assets/img/Solar Facial PFS50 MixtaG.PNG",
     "description": "Protector Solar Facial FPS 50 50 ml."
   },
   {
@@ -165,7 +166,7 @@
     "stock": 1,
     "Color": "FPS 50 Piel Mixta a Grasa",
     "category": "Solar",
-    "image": "assets/img/Solar Facial PFS50 Mixta.png",
+    "image": "assets/img/Solar Facial PFS50 MixtaG.PNG",
     "description": "Protector Solar Facial FPS 50 50 ml."
   },
   {
@@ -175,7 +176,7 @@
     "stock": 1,
     "Color": "FPS 50 Piel Seca",
     "category": "Solar",
-    "image": "assets/img/Solar Facial PFS50 Seca.png",
+    "image": "assets/img/Solar Facial PFS50 Seca.PNG",
     "description": "Protector Solar Facial FPS 50 50 ml."
   },
   {
@@ -185,7 +186,7 @@
     "stock": 1,
     "Color": "FPS 50 Piel Mixta a Grasa",
     "category": "Solar",
-    "image": "assets/img/Solar Facial PFS70 Mixta.png",
+    "image": "assets/img/Solar Facial PFS70 Mixta.PNG",
     "description": "Protector Solar Facial FPS 70 50 ml."
   },
   {
@@ -195,7 +196,7 @@
     "stock": 1,
     "Color": "FPS 50 Piel Seca",
     "category": "Solar",
-    "image": "assets/img/Solar Facial PFS70 Seca.png",
+    "image": "assets/img/Solar Facial PFS70 Seca.PNG",
     "description": "Protector Solar Facial FPS 70 50 ml."
   },
   {
@@ -205,7 +206,7 @@
     "stock": 2,
     "Color": "Agua de coco y mango rosa",
     "category": "Todo Dia",
-    "image": "assets/img/TD Jabonx5 COCO.png",
+    "image": "assets/img/TD Jabonx5 COCO.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
@@ -215,7 +216,7 @@
     "stock": 1,
     "Color": "Mora Roja y Jabuticaba",
     "category": "Todo Dia",
-    "image": "assets/img/TD Jabonx5 MORA.png",
+    "image": "assets/img/TD Jabonx5 MORA.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
@@ -225,7 +226,7 @@
     "stock": 1,
     "Color": "Cereza y Avellana",
     "category": "Todo Dia",
-    "image": "assets/img/TD Jabonx5 CEREZA.png",
+    "image": "assets/img/TD Jabonx5 CEREZA.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
@@ -235,7 +236,7 @@
     "stock": 1,
     "Color": "Acerola y Hibisco",
     "category": "Todo Dia",
-    "image": "assets/img/TD Jabonx5 ACEROLA.png",
+    "image": "assets/img/TD Jabonx5 ACEROLA.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
@@ -245,7 +246,7 @@
     "stock": 1,
     "Color": "Té de Manzanilla y Lavanda",
     "category": "Todo Dia",
-    "image": "assets/img/TD Jabonx5 MANZANILLA.png",
+    "image": "assets/img/TD Jabonx5 MANZANILLA.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
@@ -255,7 +256,7 @@
     "stock": 1,
     "Color": "Flor de cereza y Palta",
     "category": "Todo Dia",
-    "image": "assets/img/TD CP Cereza.png",
+    "image": "assets/img/TD CP Cereza.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
@@ -265,7 +266,7 @@
     "stock": 1,
     "Color": "Durazno y Almendras",
     "category": "Todo Dia",
-    "image": "assets/img/TD CP Durazno.png",
+    "image": "assets/img/TD CP Durazno.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
@@ -275,7 +276,7 @@
     "stock": 1,
     "Color": "Oleosidad",
     "category": "Lumina",
-    "image": "assets/img/Lumina SH Oleosidad.png",
+    "image": "assets/img/Lumina SH Oleosidad.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
@@ -285,7 +286,7 @@
     "stock": 1,
     "Color": "Proteccion del color",
     "category": "Lumina",
-    "image": "assets/img/Lumina Spray Color.png",
+    "image": "assets/img/Lumina Spray Color.PNG",
     "description": "Jabones en barra 5 unidades."
   }
 ]
