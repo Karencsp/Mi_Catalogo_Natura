@@ -1,0 +1,291 @@
+[
+  {
+    "id": 1,
+    "name": "Crema nutritiva 400 ml - Tododia",
+    "price": 20000,
+    "stock": 2,
+    "Color": "Flor de Lis",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNC Flor de lis.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 2,
+    "name": "Crema nutritiva 400 ml - Tododia",
+    "price": 20000,
+    "stock": 1,
+    "Color": "Hojas de Limon y Guanabana",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNC limonGua.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 3,
+    "name": "Crema nutritiva 400 ml - Tododia",
+    "price": 20000,
+    "stock": 2,
+    "Color": "Agua de coco y mango rosa",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNC CocoMango.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 4,
+    "name": "Crema nutritiva 400 ml - Tododia",
+    "price": 20000,
+    "stock": 1,
+    "Color": "Té de Manzanilla y Lavanda",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNC teLavanda.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 5,
+    "name": "Crema nutritiva 400 ml - Tododia",
+    "price": 20000,
+    "stock": 1,
+    "Color": "Pera y flor de loto",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNC PeraLoto.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 6,
+    "name": "Refill Crema nutritiva 400 ml - Tododia",
+    "price": 15100,
+    "stock": 1,
+    "Color": "Cereza y Avellana",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNC CerezaAvellana.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },    
+  {
+    "id": 7,
+    "name": "Crema nutritiva 400 ml - Tododia",
+    "price": 20000,
+    "stock": 2,
+    "Color": "Acerola y Hibisco",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNC AcerolaHibiscus.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 8,
+    "name": "Refill Crema nutritiva 400 ml - Tododia",
+    "price": 15100,
+    "stock": 1,
+    "Color": "Hojas de Limon y Guanabana",
+    "category": "Todo Dia",
+    "image": "assets/img/td rf cnc limonGua.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 9,
+    "name": "Crema nutritiva para pies - Tododia",
+    "price": 10600,
+    "stock": 1,
+    "Color": "Hojas de Limon y Guanabana",
+    "category": "Todo Dia",
+    "image": "assets/img/td cnp limonGua.png",
+    "description": "Todo Dia Crema Nutritiva para pies."
+  },
+  {
+    "id": 10,
+    "name": "Crema nutritiva para manos - Tododia",
+    "price": 132000,
+    "stock": 1,
+    "Color": "Ciruela y Flor de Vainilla",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNM CiruelaVainilla.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 11,
+    "name": "Crema nutritiva para manos - Tododia",
+    "price": 13200,
+    "stock": 1,
+    "Color": "Cereza y Avellana",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CNM CerezaAvellana.png",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 12,
+    "name": "Bálsamo Ultra Nutritivo Regenerador 200 ml - Tododia",
+    "price": 20000,
+    "stock": 2,
+    "Color": "Pera y Flor de Loto",
+    "category": "Todo Dia",
+    "image": "assets/img/TD Balsamo LOTO.png",
+    "description": "Bálsamo Ultra Nutritivo Regenerador."
+  },
+  {
+    "id": 13,
+    "name": "Bronzer Iluminador Corporal 150 ml - Tododia",
+    "price": 45999,
+    "stock": 5,
+    "Color": " Acerola e Hibisco Dorado Suave ",
+    "category": "Todo Dia",
+    "image": "assets/img/TD Iluminador Bronze.png",
+    "description": "Bronzer Iluminador Corporal 150 ml."
+  },
+  {
+    "id": 14,
+    "name": "Protector Solar Facial en Barra FPS 50 15g",
+    "price": 32900,
+    "stock": 1,
+    "Color": "",
+    "category": "Solar",
+    "image": "assets/img/Solar StickPFS50.png",
+    "description": "Protector Solar Facial en Barra FPS 50 15g."  },
+  {
+    "id": 15,
+    "name": "Protector Solar Corporal FPS 50 200 ml",
+    "price": 33400,
+    "stock": 2,
+    "Color": "FPS 50",
+    "category": "Solar",
+    "image": "assets/img/Solar PFS50.png",
+    "description": "Protector Solar Corporal FPS 50 200 ml."
+  },
+  {
+    "id": 16,
+    "name": "Protector Solar Facial FPS 50 50ml",
+    "price": 27400,
+    "stock": 3,
+    "Color": "FPS 50 Piel Mixta a Grasa",
+    "category": "Solar",
+    "image": "assets/img/Solar Facial PFS50 MixtaG.png",
+    "description": "Protector Solar Facial FPS 50 50 ml."
+  },
+  {
+    "id": 17,
+    "name": "Protector Solar Facial FPS 50 50ml",
+    "price": 27400,
+    "stock": 1,
+    "Color": "FPS 50 Piel Mixta a Grasa",
+    "category": "Solar",
+    "image": "assets/img/Solar Facial PFS50 Mixta.png",
+    "description": "Protector Solar Facial FPS 50 50 ml."
+  },
+  {
+    "id": 18,
+    "name": "Protector Solar Facial FPS 50 50ml",
+    "price": 27400,
+    "stock": 1,
+    "Color": "FPS 50 Piel Seca",
+    "category": "Solar",
+    "image": "assets/img/Solar Facial PFS50 Seca.png",
+    "description": "Protector Solar Facial FPS 50 50 ml."
+  },
+  {
+    "id": 19,
+    "name": "Protector Solar Facial FPS 70 50ml",
+    "price": 27400,
+    "stock": 1,
+    "Color": "FPS 50 Piel Mixta a Grasa",
+    "category": "Solar",
+    "image": "assets/img/Solar Facial PFS70 Mixta.png",
+    "description": "Protector Solar Facial FPS 70 50 ml."
+  },
+  {
+    "id": 20,
+    "name": "Protector Solar Facial FPS 70 50ml",
+    "price": 27400,
+    "stock": 1,
+    "Color": "FPS 50 Piel Seca",
+    "category": "Solar",
+    "image": "assets/img/Solar Facial PFS70 Seca.png",
+    "description": "Protector Solar Facial FPS 70 50 ml."
+  },
+  {
+    "id": 21,
+    "name": "Jabones en Barra Puro Vegetal 5 unidades x 90gr c/u.- Tododia",
+    "price": 13600,
+    "stock": 2,
+    "Color": "Agua de coco y mango rosa",
+    "category": "Todo Dia",
+    "image": "assets/img/TD Jabonx5 COCO.png",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 22,
+    "name": "Jabones en Barra Puro Vegetal 5 unidades x 90gr c/u.- Tododia",
+    "price": 13600,
+    "stock": 1,
+    "Color": "Mora Roja y Jabuticaba",
+    "category": "Todo Dia",
+    "image": "assets/img/TD Jabonx5 MORA.png",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 23,
+    "name": "Jabones en Barra Puro Vegetal 5 unidades x 90gr c/u.- Tododia",
+    "price": 13600,
+    "stock": 1,
+    "Color": "Cereza y Avellana",
+    "category": "Todo Dia",
+    "image": "assets/img/TD Jabonx5 CEREZA.png",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 24,
+    "name": "Jabones en Barra Puro Vegetal 5 unidades x 90gr c/u.- Tododia",
+    "price": 13600,
+    "stock": 1,
+    "Color": "Acerola y Hibisco",
+    "category": "Todo Dia",
+    "image": "assets/img/TD Jabonx5 ACEROLA.png",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 25,
+    "name": "Jabones en Barra Puro Vegetal 5 unidades x 90gr c/u.- Tododia",
+    "price": 13600,
+    "stock": 1,
+    "Color": "Té de Manzanilla y Lavanda",
+    "category": "Todo Dia",
+    "image": "assets/img/TD Jabonx5 MANZANILLA.png",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 26,
+    "name": "Crema para peinar 180ml - Tododia",
+    "price": 13600,
+    "stock": 1,
+    "Color": "Flor de cereza y Palta",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CP Cereza.png",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 27,
+    "name": "Crema para peinar 180ml - Tododia",
+    "price": 13600,
+    "stock": 1,
+    "Color": "Durazno y Almendras",
+    "category": "Todo Dia",
+    "image": "assets/img/TD CP Durazno.png",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 28,
+    "name": "Shampoo Antioleosidad 300ml - Lumina",
+    "price": 11360,
+    "stock": 1,
+    "Color": "Oleosidad",
+    "category": "Lumina",
+    "image": "assets/img/Lumina SH Oleosidad.png",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 29,
+    "name": "Spray Brillo y Protección del Color 150ml - Tododia",
+    "price": 14960,
+    "stock": 1,
+    "Color": "Proteccion del color",
+    "category": "Lumina",
+    "image": "assets/img/Lumina Spray Color.png",
+    "description": "Jabones en barra 5 unidades."
+  }
+]

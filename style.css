@@ -1,0 +1,108 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #eacaa2;
+  color: #222;
+}
+
+header {
+  padding: 20px;
+  background: rgb(241, 226, 177);
+  position: sticky;
+  top: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+h1 {
+  margin: 10px 0 10px;
+  color: rgb(161, 79, 150);
+  text-align: center;
+
+}
+h2 {
+  margin: 10px 0 10px;
+  color: rgb(161, 79, 150);
+  text-align: center;
+
+}
+
+h3 {
+  margin: 10px 0 10px;
+  size: 5px;
+  color: rgb(113, 24, 101);
+  text-align: center;
+
+}
+#search {
+  width: 95%;
+  align-items: end;
+  padding: 10px;
+  border: 1px solid lab(37.02% -0.97 10.04);
+  border-radius: 100px;
+  background-color: antiquewhite;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  padding: 20px;
+
+}
+
+.card {
+  display: flex;
+  background:rgb(243, 236, 214);
+  border-radius: 12px;
+  padding: 20px;
+  flex-direction: column;
+  box-shadow: 0 4px 14px rgba(0,0,0,.08);
+  align-items: center;
+  font-size: small;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px); /* Efecto sutil al pasar el mouse */
+}
+.card img {
+  width: 50%;
+  height: auto;
+  background-color: 10px 4px 14px rgba(0, 0, 0, 0.08);
+  aspect-ratio: 1 / 1;
+  object-fit: contain; /* Para que no se corte el producto */
+  mix-blend-mode: multiply; 
+  margin-bottom: 15px;
+}
+
+.card img:hover {
+  transform: translateY(-5px); /* Efecto sutil al pasar el mouse */
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card h3 {
+  margin: 0 0 10px;
+}
+
+.price {
+  font-size: 16px;
+  font-weight: bold;
+  color: #222;
+  margin-bottom: 5px;
+}
+
+.stock {
+  font-size: 14px;
+  color: #666;
+}
+
+.Color {
+  font-size: 14px;
+  color: #666;
+}
+
+
