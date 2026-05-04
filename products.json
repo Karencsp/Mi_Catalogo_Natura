@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Crema nutritiva 400 ml - Tododia",
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 20000,
     "stock": 2,
     "Color": "Flor de Lis",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "name": "Crema nutritiva 400 ml - Tododia",
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 20000,
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "name": "Crema nutritiva 400 ml - Tododia",
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 20000,
     "stock": 2,
     "Color": "Agua de coco y mango rosa",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "name": "Crema nutritiva 400 ml - Tododia",
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 20000,
     "stock": 1,
     "Color": "Té de Manzanilla y Lavanda",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "name": "Crema nutritiva 400 ml - Tododia",
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 20000,
     "stock": 1,
     "Color": "Pera y flor de loto",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "name": "Crema nutritiva 400 ml - Tododia",
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 15100,
     "stock": 1,
     "Color": "Cereza y Avellana",
@@ -61,7 +61,7 @@
   },    
   {
     "id": 7,
-    "name": "Crema nutritiva 400 ml - Tododia",
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 20000,
     "stock": 2,
     "Color": "Acerola y Hibisco",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "name": "Refill Crema nutritiva 400 ml - Tododia",
+    "name": "Refill Crema nutritiva corporal 400 ml - Tododia",
     "price": 15100,
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
@@ -251,7 +251,7 @@
   },
   {
     "id": 26,
-    "name": "Crema para peinar 180ml - Tododia",
+    "name": "Crema para Peinar 180ml - Tododia",
     "price": 13600,
     "stock": 2,
     "Color": "Flor de cereza y Palta",
@@ -261,25 +261,65 @@
   },
   {
     "id": 27,
-    "name": "Crema para peinar 180ml - Tododia",
+    "name": "Crema para Peinar 180ml - Tododia",
     "price": 13600,
     "stock": 1,
     "Color": "Durazno y Almendras",
     "category": "Todo Dia",
     "image": "assets/img/TD-CP-Durazno.PNG",
-    "description": "Crema para peinar 180ml."
+    "description": "Crema para Peinar 180ml."
+  },
+  {
+    "id": 37,
+    "name": "Crema para Peinar Multibeneficios 150ml - Ekos",
+    "price": 15500,
+    "stock": 1,
+    "Color": "Murumuru",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CP-Murumuru.PNG",
+    "description": "Crema para Peinar Multibeneficios 150ml."
   },
   {
     "id": 29,
-    "name": "Spray Brillo y Protección del Color 150ml - Lumina",
+    "name": "Spray para pelo Brillo y Protección del Color 150ml - Lumina",
     "price": 14960,
     "stock": 1,
     "Color": "Proteccion del color",
     "category": "Lumina",
     "image": "assets/img/Lumina-Spray-Color.PNG",
-    "description": "Spray Brillo y Protección del Color 150ml."
+    "description": "Spray para pelo Brillo y Protección del Color 150ml."
   },
     {
+    "id": 41,
+    "name": "Spray para pelo Protector termico 150ml - Lumina",
+    "price": 14960,
+    "stock": 1,
+    "Color": "Protector Termico",
+    "category": "Lumina",
+    "image": "assets/img/Lumina-Spray-Termico.PNG",
+    "description": "Spray para pelo Protector termico 150ml."
+  },
+  {
+    "id": 42,
+    "name": "Spray para pelo Perfume 30ml - Lumina",
+    "price": 22300,
+    "stock": 1,
+    "Color": "Perfume Essencia",
+    "category": "Lumina",
+    "image": "assets/img/Lumina-Spray-PerfumePelo.PNG",
+    "description": "Spray para pelo Perfume 30ml."
+  },
+  {
+    "id": 43,
+    "name": "Spray para pelo Perfume 30ml 24hs- Lumina",
+    "price": 17200,
+    "stock": 1,
+    "Color": "Perfume Inspira",
+    "category": "Lumina",
+    "image": "assets/img/Plant-Spray-PerfumePelo.PNG",
+    "description": "Spray para pelo Perfume 30ml 24hs."
+  },
+  {
     "id": 28,
     "name": "Shampoo Antioleosidad 300ml - Lumina",
     "price": 11360,
@@ -290,7 +330,37 @@
     "description": "Shampoo Antioleosidad 300ml."
   },
   {
-    "id": 35,
+    "id": 38,
+    "name": "Shampoo Anticaida y Crecimiento 300ml - Lumina",
+    "price": 11360,
+    "stock": 1,
+    "Color": "Anticaida y Crecimiento",
+    "category": "Lumina",
+    "image": "assets/img/Lumina-SH-Anticaida.PNG",
+    "description": "Shampoo Anticaida y Crecimiento 300ml."
+  },
+  {
+    "id": 39,
+    "name": "Shampoo Patauá 300 ml - Ekos",
+    "price": 13800,
+    "stock": 2,
+    "Color": "Patauá",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-SH-Pataua.PNG",
+    "description": "Shampoo Patauá 300 ml - Ekos."
+  },
+  {
+    "id": 40,
+    "name": "Acondicionador Patauá 300ml - Ekos",
+    "price": 13800,
+    "stock": 1,
+    "Color": "Patauá",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-AC-Pataua.PNG",
+    "description": "Acondicionador Patauá 300ml - Ekos."
+  },
+  {
+    "id": 30,
     "name": "Shampoo Reparación 280ml - Tododia",
     "price": 9400,
     "stock": 2,
@@ -300,7 +370,7 @@
     "description": "Shampoo Reparación 280ml."
   },
   {
-    "id": 36,
+    "id": 31,
     "name": "Shampoo Reparación 280ml - Tododia",
     "price": 9400,
     "stock": 1,
@@ -310,7 +380,7 @@
     "description": "Shampoo Reparación 280ml."
   },
     {
-    "id": 37,
+    "id": 32,
     "name": "Acondicionador Reparación 280ml - Tododia",
     "price": 9400,
     "stock": 2,
@@ -320,7 +390,7 @@
     "description": "Acondicionador Reparación 280ml."
   },
   {
-    "id": 36,
+    "id": 33,
     "name": "Acondicionador Reparación 280ml - Tododia",
     "price": 9400,
     "stock": 1,
@@ -330,7 +400,7 @@
     "description": "Acondicionador Reparación 280ml."
   },
   {
-    "id": 37,
+    "id": 34,
     "name": "Refill Acondicionador Hidratación 280ml - Tododia",
     "price": 7600,
     "stock": 1,
@@ -338,5 +408,25 @@
     "category": "Lumina",
     "image": "assets/img/TD-RF-AC-Manzana.PNG",
     "description": "Refill Acondicionador Hidratación 280ml."
+  },
+  {
+    "id": 35,
+    "name": "Máscara Nutrición 250ml - Tododia",
+    "price": 12000,
+    "stock": 1,
+    "Color": "Durazno y Almendras",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Mascara-Durazno.PNG",
+    "description": "Máscara Nutrición 250ml."
+  },
+  {
+    "id": 36,
+    "name": "Máscara Nutrición 250ml - Tododia",
+    "price": 12000,
+    "stock": 2,
+    "Color": "Flor de cereza y Palta",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Mascara-Cereza.PNG",
+    "description": "Máscara Nutrición 250ml."
   }
 ]
