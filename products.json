@@ -1,5 +1,76 @@
 [
   {
+    "id": 44,
+    "name": "Body Splash 200 ml - Tododia",
+    "price": 29600,
+    "stock": 3,
+    "Color": "Acerola y Hibisco",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-BS-Acerola.PNG",
+    "description": "Body Splash 200 ml."
+  },
+    {
+    "id": 45,
+    "name": "Body Splash 200 ml - Tododia",
+    "price": 29600,
+    "stock": 1,
+    "Color": "Ciruela y Flor de Vainilla",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-BS-Ciruela.PNG",
+    "description": "Body Splash 200 ml."
+  },
+  {
+    "id": 46,
+    "name": "Body Splash 200 ml - Tododia",
+    "price": 29600,
+    "stock": 1,
+    "Color": "Agua de coco y mango rosa",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-BS-CocoMango.PNG",
+    "description": "Body Splash 200 ml."
+  },
+  {
+    "id": 47,
+    "name": "Body Splash 200 ml - Tododia",
+    "price": 29600,
+    "stock": 3,
+    "Color": "Macadamia",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-BS-Macadamia.PNG",
+    "description": "Body Splash 200 ml."
+  },
+  {
+    "id": 48,
+    "name": "Body Splash 200 ml - Tododia",
+    "price": 29600,
+    "stock": 1,
+    "Color": "Té de Manzanilla y Lavanda",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-BS-Manzanilla.PNG",
+    "description": "Body Splash 200 ml."
+  },
+    {
+    "id": 49,
+    "name": "Body Splash 200 ml - Tododia",
+    "price": 29600,
+    "stock": 1,
+    "Color": "Granada Y Mendras Glaseadas",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-BS-Granada.PNG",
+    "description": "Body Splash 200 ml."
+  },
+  {
+    "id": 50,
+    "name": "Body Splash 200 ml - Tododia",
+    "price": 29600,
+    "stock": 1,
+    "Color": "Algodón",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-BS-Algodon.PNG",
+    "description": "Body Splash 200 ml."
+  },
+
+  {
     "id": 1,
     "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 20000,
