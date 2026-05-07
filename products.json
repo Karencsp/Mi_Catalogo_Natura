@@ -1,5 +1,55 @@
 [
   {
+    "id": 53,
+    "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
+    "price": 6100,
+    "stock": 1,
+    "Color": "Piel Uniforme",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Des-Piel.PNG",
+    "description": "Desodorante Antitranspirante Roll-on 70 ml."
+  },
+  {
+    "id": 54,
+    "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
+    "price": 6100,
+    "stock": 2,
+    "Color": "Algodón",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Des-Algodon.PNG",
+    "description": "Desodorante Antitranspirante Roll-on 70 ml."
+  },
+  {
+    "id": 55,
+    "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
+    "price": 6100,
+    "stock": 1,
+    "Color": "Mora Roja y Jabuticaba",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Des-Mora.PNG",
+    "description": "Desodorante Antitranspirante Roll-on 70 ml."
+  },
+  {
+    "id": 56,
+    "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
+    "price": 6100,
+    "stock": 1,
+    "Color": "Acerola y Hibisco",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Des-Acerola.PNG",
+    "description": "Desodorante Antitranspirante Roll-on 70 ml."
+  },
+    {
+    "id": 57,
+    "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
+    "price": 6100,
+    "stock": 1,
+    "Color": "Mango Rosa Y Agua De Coco",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Des-CocoMango.PNG",
+    "description": "Desodorante Antitranspirante Roll-on 70 ml."
+  },
+  {
     "id": 44,
     "name": "Body Splash 200 ml - Tododia",
     "price": 29600,
@@ -69,7 +119,6 @@
     "image": "assets/img/TD-BS-Algodon.PNG",
     "description": "Body Splash 200 ml."
   },
-
   {
     "id": 1,
     "name": "Crema nutritiva corporal 400 ml - Tododia",
@@ -269,6 +318,26 @@
     "category": "Solar",
     "image": "assets/img/Solar-Facial-PFS70-Seca.PNG",
     "description": "Protector Solar Facial FPS 70 50 ml."
+  },
+  {
+    "id": 51,
+    "name": "Jabón en Barra Puro Vegetal Cremosos y Exfoliante 4 un de 100 gr. - Ekos",
+    "price": 19300,
+    "stock": 1,
+    "Color": "Açai",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-JB-Acai.PNG",
+    "description": "Jabón en Barra Puro Vegetal Cremosos y Exfoliante 4 unidades."
+  },
+  {
+    "id": 52,
+    "name": "Jabón en Barra Puro Vegetal Cremosos 4 un de 100 gr. - Ekos",
+    "price": 19300,
+    "stock": 1,
+    "Color": "Cremosos varios",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-JB-Cremosos.PNG",
+    "description": "Jabón en Barra Puro Vegetal Cremosos 4 unidades."
   },
   {
     "id": 21,
