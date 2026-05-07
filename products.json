@@ -229,6 +229,16 @@
     "image": "assets/img/TD-CNM-CerezaAvellana.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
+    {
+    "id": 13,
+    "name": "Bronzer Iluminador Corporal 150 ml - Tododia",
+    "price": 27100,
+    "stock": 5,
+    "Color": " Acerola e Hibisco Dorado Suave ",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Iluminador-Bronze.PNG",
+    "description": "Bronzer Iluminador Corporal 150 ml."
+  },
   {
     "id": 12,
     "name": "Bálsamo Ultra Nutritivo Regenerador 200 ml - Tododia",
@@ -240,14 +250,44 @@
     "description": "Bálsamo Ultra Nutritivo Regenerador."
   },
   {
-    "id": 13,
-    "name": "Bronzer Iluminador Corporal 150 ml - Tododia",
-    "price": 27100,
-    "stock": 5,
-    "Color": " Acerola e Hibisco Dorado Suave ",
-    "category": "Todo Dia",
-    "image": "assets/img/TD-Iluminador-Bronze.PNG",
-    "description": "Bronzer Iluminador Corporal 150 ml."
+    "id": 59,
+    "name": "Emulsión Auxiliar para la Prevención de Estrías 200 ml - MamaeBebe",
+    "price": 14900,
+    "stock": 1,
+    "Color": "Prevención de Estrías",
+    "category": "MamaeBebe",
+    "image": "assets/img/MEB - HIdratanteEstrias.PNG",
+    "description": "Emulsión Auxiliar para la Prevención de Estrías 200 ml - MamaeBebe."
+  },
+    {
+    "id": 60,
+    "name": "Óleo Vegetal para Baño 200 ml - MamaeBebe",
+    "price": 18200,
+    "stock": 1,
+    "Color": "Óleo para gestante",
+    "category": "MamaeBebe",
+    "image": "assets/img/MEB - OleoVegetal.PNG",
+    "description": "Óleo Vegetal para Baño 200 ml - MamaeBebe."
+  },
+  {
+    "id": 61,
+    "name": "Óleo para Masajes 100 ml - MamaeBebe",
+    "price": 16200,
+    "stock": 1,
+    "Color": "Aceite para bebés",
+    "category": "MamaeBebe",
+    "image": "assets/img/MEB - OleoMasajes.PNG",
+    "description": "Óleo para Masajes 100 ml - MamaeBebe."
+  },
+  {
+    "id": 62,
+    "name": "Loción Hidratante Natura 100ml - MamaeBebe",
+    "price": 9000,
+    "stock": 1,
+    "Color": "Loción Hidratante Bebé",
+    "category": "MamaeBebe",
+    "image": "assets/img/MEB - LocionHidratante.PNG",
+    "description": "Loción Hidratante Natura 100ml - MamaeBebe."
   },
   {
     "id": 14,
