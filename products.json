@@ -380,6 +380,26 @@
     "description": "Jabón en Barra Puro Vegetal Cremosos 4 unidades."
   },
   {
+    "id": 58,
+    "name": "Jabón en Barra Puro Vegetal Cremosos 1 un de 100 gr. - Ekos",
+    "price": 3840,
+    "stock": 1,
+    "Color": "Andiroba",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-JB-Andiroba.PNG",
+    "description": "Jabón en Barra Puro Vegetal Cremosos 1 unidad."
+  },
+    {
+    "id": 63,
+    "name": "Jabón De Tocador Masajeador Ekos 100g - Ekos",
+    "price": 5900,
+    "stock": 1,
+    "Color": "Maracuyá",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-JBM-Maracuya.PNG",
+    "description": "Jabón De Tocador Masajeador  100g - Ekos"
+  },
+  {
     "id": 21,
     "name": "Jabones en Barra Puro Vegetal 5 unidades x 90gr c/u.- Tododia",
     "price": 13600,
