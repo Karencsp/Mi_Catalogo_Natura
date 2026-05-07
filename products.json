@@ -104,7 +104,7 @@
     "name": "Body Splash 200 ml - Tododia",
     "price": 29600,
     "stock": 1,
-    "Color": "Granada Y Mendras Glaseadas",
+    "Color": "Granada Y Almendras Glaseadas",
     "category": "Todo Dia",
     "image": "assets/img/TD-BS-Granada.PNG",
     "description": "Body Splash 200 ml."
@@ -172,7 +172,7 @@
   {
     "id": 6,
     "name": "Crema nutritiva corporal 400 ml - Tododia",
-    "price": 15100,
+    "price": 20000,
     "stock": 1,
     "Color": "Cereza y Avellana",
     "category": "Todo Dia",
@@ -212,7 +212,7 @@
   {
     "id": 10,
     "name": "Crema nutritiva para manos - Tododia",
-    "price": 132000,
+    "price": 13200,
     "stock": 1,
     "Color": "Ciruela y Flor de Vainilla",
     "category": "Todo Dia",
@@ -242,7 +242,7 @@
   {
     "id": 13,
     "name": "Bronzer Iluminador Corporal 150 ml - Tododia",
-    "price": 45999,
+    "price": 27100,
     "stock": 5,
     "Color": " Acerola e Hibisco Dorado Suave ",
     "category": "Todo Dia",
