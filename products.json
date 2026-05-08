@@ -120,6 +120,47 @@
     "description": "Body Splash 200 ml."
   },
   {
+    "id": 72,
+    "name": "Pulpa Hidratante Corporal 400 ml - Ekos",
+    "price": 26700,
+    "stock": 1,
+    "Color": "Castaña",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CHC-Castana.PNG",
+    "description": "Pulpa Hidratante Corporal 400 ml - Ekos."
+  },
+  {
+    "id": 73,
+    "name": "Pulpa Hidratante Corporal 400 ml - Ekos",
+    "price": 26700,
+    "stock": 1,
+    "Color": "Maracuya",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CHC-Maracuya.PNG",
+    "description": "Pulpa Hidratante Corporal 400 ml - Ekos."
+  },
+  {
+    "id": 74,
+    "name": "Pulpa Hidratante Corporal 400 ml - Ekos",
+    "price": 26700,
+    "stock": 1,
+    "Color": "Cacao",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CHC-Cacao.PNG",
+    "description": "Pulpa Hidratante Corporal 400 ml - Ekos."
+  },
+  {
+    "id": 75,
+    "name": "Pulpa Hidratante Corporal 250 ml - Ekos",
+    "price": 15200,
+    "stock": 1,
+    "Color": "Castaña",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CHC-Castana250.PNG",
+    "description": "Pulpa Hidratante Corporal 250 ml - Ekos."
+  },
+
+  {
     "id": 1,
     "name": "Crema nutritiva corporal 400 ml - Tododia",
     "price": 20000,
@@ -200,6 +241,16 @@
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
+    "id": 64,
+    "name": "Crema Hidratante para pies 75 g - Ekos",
+    "price": 14300,
+    "stock": 3,
+    "Color": "Castaña",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CHP-Castana.PNG",
+    "description": "Crema Hidratante para Pies 75 g."
+  },
+  {
     "id": 9,
     "name": "Crema nutritiva para pies - Tododia",
     "price": 10600,
@@ -210,8 +261,79 @@
     "description": "Todo Dia Crema Nutritiva para pies."
   },
   {
+    "id": 65,
+    "name": "Crema Hidratante para Manos 75 g - Ekos",
+    "price": 13500,
+    "stock": 11,
+    "Color": "Castaña",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CNM-Castana.PNG",
+    "description": "Crema Hidratante para Manos 75 g - Ekos."
+  },
+  {
+    "id": 66,
+    "name": "Crema Hidratante para Manos 75 g - Ekos",
+    "price": 13500,
+    "stock": 4,
+    "Color": "Açai",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CNM-Acai.PNG",
+    "description": "Crema Hidratante para Manos 75 g - Ekos."
+  },
+    {
+    "id": 67,
+    "name": "Crema Hidratante para Manos 75 g - Ekos",
+    "price": 13500,
+    "stock": 2,
+    "Color": "Maracuya",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CNM-Maracuya.PNG",
+    "description": "Crema Hidratante para Manos 75 g - Ekos."
+  },
+  {
+    "id": 68,
+    "name": "Crema Hidratante para Manos 75 g - Ekos",
+    "price": 13500,
+    "stock": 1,
+    "Color": "Cacao",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CNM-Cacao.PNG",
+    "description": "Crema Hidratante para Manos 75 g - Ekos."
+  },
+  {
+    "id": 69,
+    "name": "Crema Hidratante para Manos 75 g - Ekos",
+    "price": 13500,
+    "stock": 3,
+    "Color": "Tukuma",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CNM-Tukuma.PNG",
+    "description": "Crema Hidratante para Manos 75 g - Ekos."
+  },
+  {
+    "id": 70,
+    "name": "Crema Hidratante para Manos 40 g - Ekos",
+    "price": 13500,
+    "stock": 1,
+    "Color": "Açai",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CNM-Acai40.PNG",
+    "description": "Crema Hidratante para Manos 40 g - Ekos."
+  },
+  {
+    "id": 71,
+    "name": "Crema Hidratante para Manos 40 g - Ekos",
+    "price": 13500,
+    "stock": 1,
+    "Color": "Maracuya",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-CNM-Maracuya40.PNG",
+    "description": "Crema Hidratante para Manos 40 g - Ekos."
+  },
+
+  {
     "id": 10,
-    "name": "Crema nutritiva para manos - Tododia",
+    "name": "Crema nutritiva para manos 50 g - Tododia",
     "price": 13200,
     "stock": 1,
     "Color": "Ciruela y Flor de Vainilla",
@@ -221,7 +343,7 @@
   },
   {
     "id": 11,
-    "name": "Crema nutritiva para manos - Tododia",
+    "name": "Crema nutritiva para manos 50 g - Tododia",
     "price": 13200,
     "stock": 1,
     "Color": "Cereza y Avellana",
@@ -293,12 +415,12 @@
     "id": 14,
     "name": "Protector Solar Facial en Barra FPS 50 15g",
     "price": 32900,
-    "stock": 1,
+    "stock": 0,
     "Color": "",
     "category": "Solar",
     "image": "assets/img/Solar-StickPFS50.PNG",
     "description": "Protector Solar Facial en Barra FPS 50 15g."  
-  },
+  }, 
   {
     "id": 15,
     "name": "Protector Solar Corporal FPS 50 200 ml",
