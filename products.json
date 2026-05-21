@@ -1,5 +1,15 @@
 [
   {
+    "id": 80,
+    "name": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos",
+    "price": 21600,
+    "stock": 2,
+    "Color": "Demaquillante Suave",
+    "category": "Chronos",
+    "image": "assets/img/CHR-RF-AguaMicelar.PNG",
+    "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
+  },
+  {
     "id": 53,
     "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
     "price": 6100,
@@ -49,6 +59,16 @@
     "image": "assets/img/TD-Des-CocoMango.PNG",
     "description": "Desodorante Antitranspirante Roll-on 70 ml."
   },
+      {
+    "id": 76,
+    "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
+    "price": 6100,
+    "stock": 1,
+    "Color": "Ciruela y Flor de Vainilla",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Des-Ciruela.PNG",
+    "description": "Desodorante Antitranspirante Roll-on 70 ml."
+  },
   {
     "id": 44,
     "name": "Body Splash 200 ml - Tododia",
@@ -63,7 +83,7 @@
     "id": 45,
     "name": "Body Splash 200 ml - Tododia",
     "price": 29600,
-    "stock": 1,
+    "stock": 2,
     "Color": "Ciruela y Flor de Vainilla",
     "category": "Todo Dia",
     "image": "assets/img/TD-BS-Ciruela.PNG",
@@ -230,6 +250,16 @@
     "image": "assets/img/TD-CNC-AcerolaHibiscus.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
+    {
+    "id": 77,
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
+    "price": 20000,
+    "stock": 1,
+    "Color": "Ciruela y Flor de Vainilla",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-CNC-Ciruela.PNG",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
   {
     "id": 8,
     "name": "Refill Crema nutritiva corporal 400 ml - Tododia",
@@ -239,6 +269,36 @@
     "category": "Todo Dia",
     "image": "assets/img/TD-RF-CNC-LimonGua.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+    {
+    "id": 78,
+    "name": "Refill Crema nutritiva corporal 400 ml - Tododia",
+    "price": 15100,
+    "stock": 1,
+    "Color": "Ciruela y Flor de Vainilla",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-RF-CNC-Ciruela.PNG",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 79,
+    "name": "Exfoliante térmico relajante andiroba - 100 g - Ekos",
+    "price": 37000,
+    "stock": 1,
+    "Color": "Andiroba",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-EXF-Andiroba.PNG",
+    "description": "Exfoliante térmico relajante andiroba - 100 g - Ekos."
+  },
+  {
+    "id": 12,
+    "name": "Bálsamo Ultra Nutritivo Regenerador 200 ml - Tododia",
+    "price": 20000,
+    "stock": 2,
+    "Color": "Pera y Flor de Loto",
+    "category": "Todo Dia",
+    "image": "assets/img/TD-Balsamo-LOTO.PNG",
+    "description": "Bálsamo Ultra Nutritivo Regenerador."
   },
   {
     "id": 64,
@@ -330,12 +390,11 @@
     "image": "assets/img/Ekos-CNM-Maracuya40.PNG",
     "description": "Crema Hidratante para Manos 40 g - Ekos."
   },
-
   {
     "id": 10,
     "name": "Crema nutritiva para manos 50 g - Tododia",
     "price": 13200,
-    "stock": 1,
+    "stock": 2,
     "Color": "Ciruela y Flor de Vainilla",
     "category": "Todo Dia",
     "image": "assets/img/TD-CNM-CiruelaVainilla.PNG",
@@ -360,16 +419,6 @@
     "category": "Todo Dia",
     "image": "assets/img/TD-Iluminador-Bronze.PNG",
     "description": "Bronzer Iluminador Corporal 150 ml."
-  },
-  {
-    "id": 12,
-    "name": "Bálsamo Ultra Nutritivo Regenerador 200 ml - Tododia",
-    "price": 20000,
-    "stock": 2,
-    "Color": "Pera y Flor de Loto",
-    "category": "Todo Dia",
-    "image": "assets/img/TD-Balsamo-LOTO.PNG",
-    "description": "Bálsamo Ultra Nutritivo Regenerador."
   },
   {
     "id": 59,
@@ -571,6 +620,17 @@
     "image": "assets/img/TD-Jabonx5-Manzanilla.PNG",
     "description": "Jabones en barra 5 unidades."
   },
+  {
+    "id": 81,
+    "name": "Tónico capilar patauá - 30 ml - Ekos",
+    "price": 17600,
+    "stock": 1,
+    "Color": "Patauá",
+    "category": "Ekos",
+    "image": "assets/img/Ekos-Oleo-Pataua.PNG",
+    "description": "Tónico capilar patauá - 30 ml - Ekos."
+  },
+
   {
     "id": 26,
     "name": "Crema para Peinar 180ml - Tododia",
