@@ -12,8 +12,20 @@ function renderProducts(items) {
     if (a.stock > 0 && b.stock === 0) return -1;
     return 0;
   });
-  const availableProducts = items.filter(product => product.stock > 0);
+  // Ocultar productos sin stock
+  let availableProducts = items.filter(product => product.stock > 0);
 
+  // Subir promociones al inicio
+  availableProducts.sort((a, b) => {
+
+    const aPromo = a.category.toLowerCase() === "promo";
+    const bPromo = b.category.toLowerCase() === "promo";
+
+    if (aPromo && !bPromo) return -1;
+    if (!aPromo && bPromo) return 1;
+
+    return 0;
+  });
   const container = document.getElementById("product-list");
   container.innerHTML = "";
 

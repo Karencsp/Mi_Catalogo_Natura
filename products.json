@@ -302,11 +302,11 @@
   },
   {
     "id": 64,
-    "name": "Crema Hidratante para pies 75 g - Ekos",
-    "price": 14300,
+    "name": "Crema Hidratante para pies 75 g - PROMO!! NO SE APLICAN DESCUENTOS",
+    "price": 11400,
     "stock": 3,
     "Color": "Castaña",
-    "category": "Ekos",
+    "category": "PROMO",
     "image": "assets/img/Ekos-CHP-Castana.PNG",
     "description": "Crema Hidratante para Pies 75 g."
   },
@@ -320,11 +320,21 @@
     "image": "assets/img/TD-CNP-LimonGua.PNG",
     "description": "Todo Dia Crema Nutritiva para pies."
   },
+    {
+    "id": 82,
+    "name": "Kit x 3 Crema Hidratante para Manos 75 g c/u - PROMO!!! NO SE APLICAN DESCUENTOS",
+    "price": 32400,
+    "stock": 1,
+    "Color": "Castaña",
+    "category": "PROMO",
+    "image": "assets/img/Ekos-CNM-Castanax3.PNG",
+    "description": "Crema Hidratante para Manos 75 g - Ekos."
+  },
   {
     "id": 65,
     "name": "Crema Hidratante para Manos 75 g - Ekos",
     "price": 13500,
-    "stock": 11,
+    "stock": 8,
     "Color": "Castaña",
     "category": "Ekos",
     "image": "assets/img/Ekos-CNM-Castana.PNG",
@@ -630,7 +640,6 @@
     "image": "assets/img/Ekos-Oleo-Pataua.PNG",
     "description": "Tónico capilar patauá - 30 ml - Ekos."
   },
-
   {
     "id": 26,
     "name": "Crema para Peinar 180ml - Tododia",
