@@ -192,11 +192,11 @@
   },
   {
     "id": 2,
-    "name": "Crema nutritiva corporal 400 ml - Tododia",
-    "price": 20000,
+    "name": "Crema nutritiva corporal 400 ml - Promo!! NO SE APLICAN DESCUENTOS",
+    "price": 16000,
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
-    "category": "Todo Dia",
+    "category": "PROMO",
     "image": "assets/img/TD-CNC-LimonGua.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -306,7 +306,7 @@
     "price": 11400,
     "stock": 3,
     "Color": "Castaña",
-    "category": "PROMO",
+    "category": "PROMO EKOS",
     "image": "assets/img/Ekos-CHP-Castana.PNG",
     "description": "Crema Hidratante para Pies 75 g."
   },
@@ -326,7 +326,7 @@
     "price": 32400,
     "stock": 1,
     "Color": "Castaña",
-    "category": "PROMO",
+    "category": "PROMO EKOS",
     "image": "assets/img/Ekos-CNM-Castanax3.PNG",
     "description": "Crema Hidratante para Manos 75 g - Ekos."
   },
@@ -492,11 +492,11 @@
   },
   {
     "id": 16,
-    "name": "Protector Solar Facial FPS 50 50ml",
-    "price": 27400,
+    "name": "Protector Solar Facial FPS 50 50ml. Promo!! NO SE APLICAN DESCUENTOS",
+    "price": 22000,
     "stock": 3,
     "Color": "FPS 50 Piel Mixta a Grasa",
-    "category": "Solar",
+    "category": "PROMO SOLAR",
     "image": "assets/img/Solar-Facial-PFS50-MixtaG.PNG",
     "description": "Protector Solar Facial FPS 50 50 ml."
   },
@@ -712,13 +712,13 @@
   },
   {
     "id": 28,
-    "name": "Shampoo Antioleosidad 300ml - Lumina",
-    "price": 11360,
+    "name": "Shampoo Antioleosidad 300ml - Promoo!! NO SE APLICAN DESCUENTOS",
+    "price": 9100,
     "stock": 1,
     "Color": "Oleosidad",
-    "category": "Lumina",
+    "category": "PROMO LUMINA",
     "image": "assets/img/Lumina-SH-Oleosidad.PNG",
-    "description": "Shampoo Antioleosidad 300ml."
+    "description": "Shampoo Antioleosidad 300ml - Lumina."
   },
   {
     "id": 38,
