@@ -5,7 +5,7 @@
     "price": 21600,
     "stock": 2,
     "Color": "Demaquillante Suave",
-    "category": "Chronos",
+    "category": "Rostro, Chronos",
     "image": "assets/img/CHR-RF-AguaMicelar.PNG",
     "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
   },
@@ -15,7 +15,7 @@
     "price": 6100,
     "stock": 1,
     "Color": "Piel Uniforme",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Des-Piel.PNG",
     "description": "Desodorante Antitranspirante Roll-on 70 ml."
   },
@@ -25,7 +25,7 @@
     "price": 6100,
     "stock": 2,
     "Color": "Algodón",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Des-Algodon.PNG",
     "description": "Desodorante Antitranspirante Roll-on 70 ml."
   },
@@ -35,7 +35,7 @@
     "price": 6100,
     "stock": 1,
     "Color": "Mora Roja y Jabuticaba",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Des-Mora.PNG",
     "description": "Desodorante Antitranspirante Roll-on 70 ml."
   },
@@ -45,7 +45,7 @@
     "price": 6100,
     "stock": 1,
     "Color": "Acerola y Hibisco",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Des-Acerola.PNG",
     "description": "Desodorante Antitranspirante Roll-on 70 ml."
   },
@@ -55,7 +55,7 @@
     "price": 6100,
     "stock": 1,
     "Color": "Mango Rosa Y Agua De Coco",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Des-CocoMango.PNG",
     "description": "Desodorante Antitranspirante Roll-on 70 ml."
   },
@@ -65,7 +65,7 @@
     "price": 6100,
     "stock": 1,
     "Color": "Ciruela y Flor de Vainilla",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario,Todo Dia",
     "image": "assets/img/TD-Des-Ciruela.PNG",
     "description": "Desodorante Antitranspirante Roll-on 70 ml."
   },
@@ -75,7 +75,7 @@
     "price": 29600,
     "stock": 3,
     "Color": "Acerola y Hibisco",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-BS-Acerola.PNG",
     "description": "Body Splash 200 ml."
   },
@@ -85,7 +85,7 @@
     "price": 29600,
     "stock": 2,
     "Color": "Ciruela y Flor de Vainilla",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-BS-Ciruela.PNG",
     "description": "Body Splash 200 ml."
   },
@@ -95,7 +95,7 @@
     "price": 29600,
     "stock": 1,
     "Color": "Agua de coco y mango rosa",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-BS-CocoMango.PNG",
     "description": "Body Splash 200 ml."
   },
@@ -105,7 +105,7 @@
     "price": 29600,
     "stock": 3,
     "Color": "Macadamia",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-BS-Macadamia.PNG",
     "description": "Body Splash 200 ml."
   },
@@ -115,7 +115,7 @@
     "price": 29600,
     "stock": 1,
     "Color": "Té de Manzanilla y Lavanda",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-BS-Manzanilla.PNG",
     "description": "Body Splash 200 ml."
   },
@@ -125,7 +125,7 @@
     "price": 29600,
     "stock": 1,
     "Color": "Granada Y Almendras Glaseadas",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-BS-Granada.PNG",
     "description": "Body Splash 200 ml."
   },
@@ -135,7 +135,7 @@
     "price": 29600,
     "stock": 1,
     "Color": "Algodón",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-BS-Algodon.PNG",
     "description": "Body Splash 200 ml."
   },
@@ -145,7 +145,7 @@
     "price": 26700,
     "stock": 1,
     "Color": "Castaña",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CHC-Castana.PNG",
     "description": "Pulpa Hidratante Corporal 400 ml - Ekos."
   },
@@ -155,7 +155,7 @@
     "price": 26700,
     "stock": 1,
     "Color": "Maracuya",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CHC-Maracuya.PNG",
     "description": "Pulpa Hidratante Corporal 400 ml - Ekos."
   },
@@ -165,7 +165,7 @@
     "price": 26700,
     "stock": 1,
     "Color": "Cacao",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CHC-Cacao.PNG",
     "description": "Pulpa Hidratante Corporal 400 ml - Ekos."
   },
@@ -175,7 +175,7 @@
     "price": 15200,
     "stock": 1,
     "Color": "Castaña",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CHC-Castana250.PNG",
     "description": "Pulpa Hidratante Corporal 250 ml - Ekos."
   },
@@ -186,7 +186,7 @@
     "price": 20000,
     "stock": 2,
     "Color": "Flor de Lis",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNC-Flordelis.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -196,7 +196,7 @@
     "price": 16000,
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
-    "category": "PROMO",
+    "category": "PROMO, Cuidado Diario",
     "image": "assets/img/TD-CNC-LimonGua.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -206,7 +206,7 @@
     "price": 20000,
     "stock": 2,
     "Color": "Agua de coco y mango rosa",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNC-CocoMango.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -216,7 +216,7 @@
     "price": 20000,
     "stock": 1,
     "Color": "Té de Manzanilla y Lavanda",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNC-TeLavanda.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -226,7 +226,7 @@
     "price": 20000,
     "stock": 1,
     "Color": "Pera y flor de loto",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNC-PeraLoto.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -236,7 +236,7 @@
     "price": 20000,
     "stock": 1,
     "Color": "Cereza y Avellana",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNC-CerezaAvellana.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },    
@@ -246,7 +246,7 @@
     "price": 20000,
     "stock": 2,
     "Color": "Acerola y Hibisco",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNC-AcerolaHibiscus.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -256,7 +256,7 @@
     "price": 20000,
     "stock": 1,
     "Color": "Ciruela y Flor de Vainilla",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNC-Ciruela.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -266,7 +266,7 @@
     "price": 15100,
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-RF-CNC-LimonGua.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -276,7 +276,7 @@
     "price": 15100,
     "stock": 1,
     "Color": "Ciruela y Flor de Vainilla",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-RF-CNC-Ciruela.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -286,7 +286,7 @@
     "price": 37000,
     "stock": 1,
     "Color": "Andiroba",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-EXF-Andiroba.PNG",
     "description": "Exfoliante térmico relajante andiroba - 100 g - Ekos."
   },
@@ -296,7 +296,7 @@
     "price": 20000,
     "stock": 2,
     "Color": "Pera y Flor de Loto",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Balsamo-LOTO.PNG",
     "description": "Bálsamo Ultra Nutritivo Regenerador."
   },
@@ -306,7 +306,7 @@
     "price": 11400,
     "stock": 3,
     "Color": "Castaña",
-    "category": "PROMO",
+    "category": "PROMO, Cuidado Diario",
     "image": "assets/img/Ekos-CHP-Castana.PNG",
     "description": "Crema Hidratante para Pies 75 g."
   },
@@ -316,7 +316,7 @@
     "price": 10600,
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNP-LimonGua.PNG",
     "description": "Todo Dia Crema Nutritiva para pies."
   },
@@ -326,7 +326,7 @@
     "price": 32400,
     "stock": 1,
     "Color": "Castaña",
-    "category": "PROMO",
+    "category": "PROMO, Cuidado Diario",
     "image": "assets/img/Ekos-CNM-Castanax3.PNG",
     "description": "Crema Hidratante para Manos 75 g - Ekos."
   },
@@ -336,7 +336,7 @@
     "price": 13500,
     "stock": 8,
     "Color": "Castaña",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Castana.PNG",
     "description": "Crema Hidratante para Manos 75 g - Ekos."
   },
@@ -346,7 +346,7 @@
     "price": 13500,
     "stock": 4,
     "Color": "Açai",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Acai.PNG",
     "description": "Crema Hidratante para Manos 75 g - Ekos."
   },
@@ -356,7 +356,7 @@
     "price": 13500,
     "stock": 2,
     "Color": "Maracuya",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Maracuya.PNG",
     "description": "Crema Hidratante para Manos 75 g - Ekos."
   },
@@ -366,7 +366,7 @@
     "price": 13500,
     "stock": 1,
     "Color": "Cacao",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Cacao.PNG",
     "description": "Crema Hidratante para Manos 75 g - Ekos."
   },
@@ -376,7 +376,7 @@
     "price": 13500,
     "stock": 3,
     "Color": "Tukuma",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Tukuma.PNG",
     "description": "Crema Hidratante para Manos 75 g - Ekos."
   },
@@ -386,7 +386,7 @@
     "price": 13500,
     "stock": 1,
     "Color": "Açai",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Acai40.PNG",
     "description": "Crema Hidratante para Manos 40 g - Ekos."
   },
@@ -396,7 +396,7 @@
     "price": 13500,
     "stock": 1,
     "Color": "Maracuya",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Maracuya40.PNG",
     "description": "Crema Hidratante para Manos 40 g - Ekos."
   },
@@ -406,7 +406,7 @@
     "price": 13200,
     "stock": 2,
     "Color": "Ciruela y Flor de Vainilla",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNM-CiruelaVainilla.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -416,7 +416,7 @@
     "price": 13200,
     "stock": 1,
     "Color": "Cereza y Avellana",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNM-CerezaAvellana.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
@@ -426,7 +426,7 @@
     "price": 27100,
     "stock": 5,
     "Color": " Acerola e Hibisco Dorado Suave ",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Iluminador-Bronze.PNG",
     "description": "Bronzer Iluminador Corporal 150 ml."
   },
@@ -436,7 +436,7 @@
     "price": 14900,
     "stock": 1,
     "Color": "Prevención de Estrías",
-    "category": "MamaeBebe",
+    "category": "Cuidado Diario, MamaeBebe",
     "image": "assets/img/MEB - HIdratanteEstrias.PNG",
     "description": "Emulsión Auxiliar para la Prevención de Estrías 200 ml - MamaeBebe."
   },
@@ -446,7 +446,7 @@
     "price": 18200,
     "stock": 1,
     "Color": "Óleo para gestante",
-    "category": "MamaeBebe",
+    "category": "Cuidado Diario, Mama&Bebe",
     "image": "assets/img/MEB - OleoVegetal.PNG",
     "description": "Óleo Vegetal para Baño 200 ml - MamaeBebe."
   },
@@ -456,7 +456,7 @@
     "price": 16200,
     "stock": 1,
     "Color": "Aceite para bebés",
-    "category": "MamaeBebe",
+    "category": "Mama&Bebe",
     "image": "assets/img/MEB - OleoMasajes.PNG",
     "description": "Óleo para Masajes 100 ml - MamaeBebe."
   },
@@ -466,7 +466,7 @@
     "price": 9000,
     "stock": 1,
     "Color": "Loción Hidratante Bebé",
-    "category": "MamaeBebe",
+    "category": "Mama&Bebe",
     "image": "assets/img/MEB - LocionHidratante.PNG",
     "description": "Loción Hidratante Natura 100ml - MamaeBebe."
   },
@@ -476,7 +476,7 @@
     "price": 32900,
     "stock": 0,
     "Color": "",
-    "category": "Solar",
+    "category": "Rostro, Solar",
     "image": "assets/img/Solar-StickPFS50.PNG",
     "description": "Protector Solar Facial en Barra FPS 50 15g."  
   }, 
@@ -486,7 +486,7 @@
     "price": 33400,
     "stock": 2,
     "Color": "FPS 50",
-    "category": "Solar",
+    "category": "Cuidado Diario, Solar",
     "image": "assets/img/Solar-PFS50.PNG",
     "description": "Protector Solar Corporal FPS 50 200 ml."
   },
@@ -496,7 +496,7 @@
     "price": 22000,
     "stock": 3,
     "Color": "FPS 50 Piel Mixta a Grasa",
-    "category": "PROMO",
+    "category": "PROMO, Rostro, Solar",
     "image": "assets/img/Solar-Facial-PFS50-MixtaG.PNG",
     "description": "Protector Solar Facial FPS 50 50 ml."
   },
@@ -506,7 +506,7 @@
     "price": 27400,
     "stock": 1,
     "Color": "FPS 50 Piel Mixta a Grasa",
-    "category": "Solar",
+    "category": "Rostro, Solar",
     "image": "assets/img/Solar-Facial-PFS50-Mixta.PNG",
     "description": "Protector Solar Facial FPS 50 50 ml."
   },
@@ -516,7 +516,7 @@
     "price": 27400,
     "stock": 1,
     "Color": "FPS 50 Piel Seca",
-    "category": "Solar",
+    "category": "Rostro, Solar",
     "image": "assets/img/Solar-Facial-PFS50-Seca.PNG",
     "description": "Protector Solar Facial FPS 50 50 ml."
   },
@@ -526,7 +526,7 @@
     "price": 27400,
     "stock": 1,
     "Color": "FPS 50 Piel Mixta a Grasa",
-    "category": "Solar",
+    "category": "Rostro, Solar",
     "image": "assets/img/Solar-Facial-PFS70-Mixta.PNG",
     "description": "Protector Solar Facial FPS 70 50 ml."
   },
@@ -536,7 +536,7 @@
     "price": 27400,
     "stock": 1,
     "Color": "FPS 50 Piel Seca",
-    "category": "Solar",
+    "category": "Rostro, Solar",
     "image": "assets/img/Solar-Facial-PFS70-Seca.PNG",
     "description": "Protector Solar Facial FPS 70 50 ml."
   },
@@ -546,7 +546,7 @@
     "price": 19300,
     "stock": 1,
     "Color": "Açai",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-JB-Acai.PNG",
     "description": "Jabón en Barra Puro Vegetal Cremosos y Exfoliante 4 unidades."
   },
@@ -556,7 +556,7 @@
     "price": 19300,
     "stock": 0,
     "Color": "Cremosos varios",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-JB-Cremosos.PNG",
     "description": "Jabón en Barra Puro Vegetal Cremosos 4 unidades."
   },
@@ -566,7 +566,7 @@
     "price": 3840,
     "stock": 1,
     "Color": "Andiroba",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-JB-Andiroba.PNG",
     "description": "Jabón en Barra Puro Vegetal Cremosos 1 unidad."
   },
@@ -576,7 +576,7 @@
     "price": 5900,
     "stock": 1,
     "Color": "Maracuyá",
-    "category": "Ekos",
+    "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-JBM-Maracuya.PNG",
     "description": "Jabón De Tocador Masajeador  100g - Ekos"
   },
@@ -586,7 +586,7 @@
     "price": 13600,
     "stock": 2,
     "Color": "Agua de coco y mango rosa",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Jabonx5-COCO.PNG",
     "description": "Jabones en barra 5 unidades."
   },
@@ -596,7 +596,7 @@
     "price": 13600,
     "stock": 1,
     "Color": "Mora Roja y Jabuticaba",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Jabonx5-Mora.PNG",
     "description": "Jabones en barra 5 unidades."
   },
@@ -606,7 +606,7 @@
     "price": 13600,
     "stock": 1,
     "Color": "Cereza y Avellana",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Jabonx5-Cereza.PNG",
     "description": "Jabones en barra 5 unidades."
   },
@@ -616,7 +616,7 @@
     "price": 13600,
     "stock": 1,
     "Color": "Acerola y Hibisco",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Jabonx5-Acerola.PNG",
     "description": "Jabones en barra 5 unidades."
   },
@@ -626,7 +626,7 @@
     "price": 13600,
     "stock": 1,
     "Color": "Té de Manzanilla y Lavanda",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Jabonx5-Manzanilla.PNG",
     "description": "Jabones en barra 5 unidades."
   },
@@ -636,7 +636,7 @@
     "price": 17600,
     "stock": 1,
     "Color": "Patauá",
-    "category": "Ekos",
+    "category": "Cabello, Ekos",
     "image": "assets/img/Ekos-Oleo-Pataua.PNG",
     "description": "Tónico capilar patauá - 30 ml - Ekos."
   },
@@ -646,7 +646,7 @@
     "price": 13600,
     "stock": 2,
     "Color": "Flor de cereza y Palta",
-    "category": "Todo Dia",
+    "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CP-Cereza.PNG",
     "description": "Crema para peinar 180ml."
   },
@@ -656,7 +656,7 @@
     "price": 13600,
     "stock": 1,
     "Color": "Durazno y Almendras",
-    "category": "Todo Dia",
+    "category": "Cabello, Lumina",
     "image": "assets/img/TD-CP-Durazno.PNG",
     "description": "Crema para Peinar 180ml."
   },
@@ -666,7 +666,7 @@
     "price": 15500,
     "stock": 1,
     "Color": "Murumuru",
-    "category": "Ekos",
+    "category": "Cabello, Ekos",
     "image": "assets/img/Ekos-CP-Murumuru.PNG",
     "description": "Crema para Peinar Multibeneficios 150ml."
   },
@@ -676,7 +676,7 @@
     "price": 14960,
     "stock": 1,
     "Color": "Proteccion del color",
-    "category": "Lumina",
+    "category": "Cabello, Lumina",
     "image": "assets/img/Lumina-Spray-Color.PNG",
     "description": "Spray para pelo Brillo y Protección del Color 150ml."
   },
@@ -686,7 +686,7 @@
     "price": 14960,
     "stock": 1,
     "Color": "Protector Termico",
-    "category": "Lumina",
+    "category": "Cabello, Lumina",
     "image": "assets/img/Lumina-Spray-Termico.PNG",
     "description": "Spray para pelo Protector termico 150ml."
   },
@@ -696,7 +696,7 @@
     "price": 22300,
     "stock": 1,
     "Color": "Perfume Essencia",
-    "category": "Lumina",
+    "category": "Cabello, Lumina",
     "image": "assets/img/Lumina-Spray-PerfumePelo.PNG",
     "description": "Spray para pelo Perfume 30ml."
   },
@@ -706,7 +706,7 @@
     "price": 17200,
     "stock": 1,
     "Color": "Perfume Inspira",
-    "category": "Lumina",
+    "category": "Cabello, Lumina",
     "image": "assets/img/Plant-Spray-PerfumePelo.PNG",
     "description": "Spray para pelo Perfume 30ml 24hs."
   },
@@ -716,7 +716,7 @@
     "price": 9100,
     "stock": 1,
     "Color": "Oleosidad",
-    "category": "PROMO",
+    "category": "PROMO, Cabello, Lumina",
     "image": "assets/img/Lumina-SH-Oleosidad.PNG",
     "description": "Shampoo Antioleosidad 300ml - Lumina."
   },
@@ -726,7 +726,7 @@
     "price": 11360,
     "stock": 1,
     "Color": "Anticaida y Crecimiento",
-    "category": "Lumina",
+    "category": "Cabello, Lumina",
     "image": "assets/img/Lumina-SH-Anticaida.PNG",
     "description": "Shampoo Anticaida y Crecimiento 300ml."
   },
@@ -736,7 +736,7 @@
     "price": 13800,
     "stock": 2,
     "Color": "Patauá",
-    "category": "Ekos",
+    "category": "Cabello, Ekos",
     "image": "assets/img/Ekos-SH-Pataua.PNG",
     "description": "Shampoo Patauá 300 ml - Ekos."
   },
@@ -746,7 +746,7 @@
     "price": 13800,
     "stock": 1,
     "Color": "Patauá",
-    "category": "Ekos",
+    "category": "Cabello, Ekos",
     "image": "assets/img/Ekos-AC-Pataua.PNG",
     "description": "Acondicionador Patauá 300ml - Ekos."
   },
@@ -756,7 +756,7 @@
     "price": 9400,
     "stock": 2,
     "Color": "Flor de cereza y Palta",
-    "category": "Todo Dia",
+    "category": "Cabello, Todo Dia",
     "image": "assets/img/TD-SH-Cereza.PNG",
     "description": "Shampoo Reparación 280ml."
   },
@@ -766,7 +766,7 @@
     "price": 9400,
     "stock": 1,
     "Color": "Durazno y Almendras",
-    "category": "Todo Dia",
+    "category": "Cabello, Todo Dia",
     "image": "assets/img/TD-SH-Durazno.PNG",
     "description": "Shampoo Reparación 280ml."
   },
@@ -776,7 +776,7 @@
     "price": 9400,
     "stock": 2,
     "Color": "Flor de cereza y Palta",
-    "category": "Todo Dia",
+    "category": "Cabello, Todo Dia",
     "image": "assets/img/TD-AC-Cereza.PNG",
     "description": "Acondicionador Reparación 280ml."
   },
@@ -786,7 +786,7 @@
     "price": 9400,
     "stock": 1,
     "Color": "Durazno y Almendras",
-    "category": "Todo Dia",
+    "category": "Cabello, Todo Dia",
     "image": "assets/img/TD-AC-Durazno.PNG",
     "description": "Acondicionador Reparación 280ml."
   },
@@ -796,27 +796,27 @@
     "price": 7600,
     "stock": 1,
     "Color": "Manzana Verde y Aloe Vera",
-    "category": "Lumina",
+    "category": "Cabello, Lumina",
     "image": "assets/img/TD-RF-AC-Manzana.PNG",
     "description": "Refill Acondicionador Hidratación 280ml."
   },
   {
     "id": 35,
-    "name": "Máscara Nutrición 250ml - Tododia",
+    "name": "Máscara Nutrición para pelo 250ml - Tododia",
     "price": 12000,
     "stock": 1,
     "Color": "Durazno y Almendras",
-    "category": "Todo Dia",
+    "category": "Cabello, Todo Dia",
     "image": "assets/img/TD-Mascara-Durazno.PNG",
     "description": "Máscara Nutrición 250ml."
   },
   {
     "id": 36,
-    "name": "Máscara Nutrición 250ml - Tododia",
+    "name": "Máscara Nutrición para pelo 250ml - Tododia",
     "price": 12000,
     "stock": 1,
     "Color": "Flor de cereza y Palta",
-    "category": "Todo Dia",
+    "category": "Cabello, Todo Dia",
     "image": "assets/img/TD-Mascara-Cereza.PNG",
     "description": "Máscara Nutrición 250ml."
   }

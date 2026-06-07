@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background: #eacaa2;
-  color: #222;
+  color: rgb(161, 79, 150);
 }
 
 header {
@@ -32,8 +32,37 @@ h3 {
   size: 5px;
   color: rgb(113, 24, 101);
   text-align: center;
-
 }
+
+.category-filters {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 15px;
+  
+}
+
+.filter-btn {
+  border: none;
+  padding: 10px 14px;
+  border-radius: 100px;
+  cursor: pointer;
+  background: #eacaa2;
+  transition: .2s;
+ 
+}
+
+.filter-btn:hover {
+  transform: translateY(-2px);
+  
+}
+
+.filter-btn.active {
+  background: #ebc597;
+  color: white;
+}
+
 #search {
   width: 95%;
   align-items: end;
@@ -43,6 +72,21 @@ h3 {
   background-color: antiquewhite;
 }
 
+.whatsapp-btn a {
+  display: block;
+  text-align: center;
+  margin-top: 12px;
+  padding: 10px;
+  background: #5fc083;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.whatsapp-btn a:hover {
+  opacity: 0.9;
+}
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
