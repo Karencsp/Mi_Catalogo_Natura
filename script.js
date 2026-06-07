@@ -105,7 +105,7 @@ function renderProducts(items) {
         <div class="whatsapp-btn">
           <a
             href="https://wa.me/5491124648528?text=${encodeURIComponent(
-              `Hola, me interesa ${product.name} - Precio: $${product.price}`
+              `Hola Karen, me interesa ${product.name} - Precio: $${product.price}`
           )}"
             target="_blank"
        >
