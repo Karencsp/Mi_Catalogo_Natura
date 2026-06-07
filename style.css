@@ -40,7 +40,7 @@ h3 {
   flex-wrap: wrap;
   gap: 10px;
   margin-bottom: 15px;
-  
+  color: rgb(161, 79, 150);
 }
 
 .filter-btn {
