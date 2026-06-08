@@ -150,16 +150,20 @@ h3 {
 }
 
 .cart-panel {
-  position: sticky;
-  : 20px;
-  background: rgb(243, 236, 214);
-  padding: 20px;
   margin: 20px;
-  border-radius: 12px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 350px;
+  height: 100vh;
+  background: rgb(243, 236, 214); 
   box-shadow:
     0 4px 12px  rgb(113, 24, 101);
-  
-  
+  padding: 20px;
+  overflow-y: auto;
+  z-index: 9999;
+  border-radius: 12px;
+
 }
 
 .qty-input {
@@ -180,12 +184,85 @@ h3 {
     box-shadow:
     0 4px 12px  rgb(113, 24, 101);
   
+}
+
+.Whatsapp-btn {
+  margin-left: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+  color: rgb(113, 24, 101);
+  background: #5fc083;
+  border-radius: 8px;
+    box-shadow:
+    0 4px 12px  rgb(113, 24, 101);
 
 
 }
 
-.cart-item {
-  margin-bottom: 8px;
+.cart-item  {
+  margin-bottom: 10px;
+}
+ 
   
-  
+
+
+.cart-icon {
+  position: sticky;
+  cursor: pointer;
+  font-size: 28px;
+  display: inline-block;
+}
+
+#cart-count {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background:rgb(161, 79, 150);
+  color: white;
+  border-radius: 50%;
+  min-width: 22px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+.hidden {
+  display: none;
+}
+
+.cart-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#close-cart {
+
+  width: 40px;
+  height: 40px;
+
+  border-radius: 10px;
+
+  border: 3px solid #222;
+
+  background: #dfc29d;
+
+  color: #a24ca2;
+
+  font-size: 20px;
+
+  cursor: pointer;
+
+  box-shadow: 0 0 12px rgba(162,76,162,.5);
+
+  transition: .2s;
+}
+
+#close-cart:hover {
+  transform: scale(1.05);
 }

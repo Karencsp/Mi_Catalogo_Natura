@@ -13,31 +13,41 @@
     <h2>STOCK Consultora Karen Sanchez Pinto</h2>
     <h3>Descuentos: 1x5%off - 2x10%off - 3 o más x15%off</h3>
     <div class="category-filters">
-
       <button class="filter-btn" data-category="todos">Todos</button>
-
       <button class="filter-btn" data-category="promo">Promo</button>
-
       <button class="filter-btn" data-category="rostro">Rostro</button>
-
       <button class="filter-btn" data-category="cuidado diario">
     Cuidado Diario
       </button>
-
       <button class="filter-btn" data-category="cabello">
     Cabello
       </button>
-
       <button class="filter-btn" data-category="mama&bebe">
     Mamá & Bebé
       </button>
+      
+      <div class="cart-icon" id="cart-icon">
+      🛒
+        <span id="cart-count">
+        0
+        </span>
+      </div>
 
     </div>
-    <div id="cart" class="cart-panel">
-      <h2>🛒 Carrito</h2>
-      <p>
+
+    
+    <div id="cart" class="cart-panel hidden">
+      <div class="cart-header">
+        <h2>🛒 Carrito</h2>
+        <button id="close-cart">
+          ✕
+        </button>
+      </div>
+
+      <div id="cart-content">
         No hay productos seleccionados
-      </p>
+      </div>
+ 
     </div>
 
     <input type="text" id="search" placeholder="Buscar productos...">

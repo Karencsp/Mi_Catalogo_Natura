@@ -148,6 +148,7 @@ function addToCart(productId) {
   }
 
   renderCart();
+  updateCartCount();
 }
 
 document.getElementById("search").addEventListener("input", filterProducts);
@@ -243,18 +244,34 @@ document
 function renderCart() {
 
   const cartContainer =
-    document.getElementById("cart");
+    document.getElementById("cart-content");
 
   const totals = calculateCart();
 
   let html = "";
 
   cart.forEach(item => {
+    const itemTotal =
+    item.price * item.qty;
 
     html += `
       <div class="cart-item">
+
+        <strong>
         ${item.name}
-        x${item.qty}
+        </strong>
+
+        <br>  
+         ${item.qty}
+          x
+          $${item.price.toLocaleString()}
+        <br>
+        
+        <strong>
+        =
+        $${itemTotal.toLocaleString()}
+        </strong>
+
       </div>
     `;
   });
@@ -272,12 +289,25 @@ function renderCart() {
       $${totals.total.toLocaleString()}
     </p>
 
-    <button onclick="sendWhatsAppOrder()">
-      Finalizar Pedido
+    <button 
+      class="Whatsapp-btn"  
+      onclick="sendWhatsAppOrder()">
+      Enviar pedido por WhatsApp
     </button>
   `;
 
   cartContainer.innerHTML = html;
+}
+
+function updateCartCount() {
+
+  const totalItems = cart.reduce(
+    (total, item) => total + item.qty,
+    0
+  );
+
+  document.getElementById("cart-count")
+    .textContent = totalItems;
 }
 
 function sendWhatsAppOrder() {
@@ -311,3 +341,25 @@ Total final: $${totals.total.toLocaleString()}
 
   window.open(url, "_blank");
 }
+
+//Abrir el carrito
+document
+  .getElementById("cart-icon")
+  .addEventListener("click", () => {
+
+    document
+      .getElementById("cart")
+      .classList.remove("hidden");
+
+  });
+
+  // Cerrar el carrito 
+  document
+  .getElementById("close-cart")
+  .addEventListener("click", () => {
+
+    document
+      .getElementById("cart")
+      .classList.add("hidden");
+
+  });
