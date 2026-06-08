@@ -40,7 +40,8 @@ h3 {
   flex-wrap: wrap;
   gap: 10px;
   margin-bottom: 15px;
-  color: rgb(161, 79, 150);
+ 
+  font-weight: bold;
 }
 
 .filter-btn {
@@ -50,17 +51,19 @@ h3 {
   cursor: pointer;
   background: #eacaa2;
   transition: .2s;
- 
+   color:  rgb(113, 24, 101);
+  font-weight: bold;
+  
 }
 
 .filter-btn:hover {
   transform: translateY(-2px);
-  
 }
 
 .filter-btn.active {
   background: #ebc597;
   color: white;
+  font-weight: bold;
 }
 
 #search {
@@ -72,17 +75,21 @@ h3 {
   background-color: antiquewhite;
 }
 
-.whatsapp-btn a {
+.whatsapp-btn { 
   display: block;
   text-align: center;
-  margin-top: 12px;
-  padding: 10px;
+  padding: 10px 15px;
   background: #5fc083;
-  color: white;
   text-decoration: none;
-  border-radius: 8px;
+  border-radius: 100px;
   font-weight: bold;
+  cursor: pointer;
+  transition: .2s;
+  justify-content: center;
+  color:  rgb(113, 24, 101);
+
 }
+
 
 .whatsapp-btn a:hover {
   opacity: 0.9;
@@ -111,6 +118,8 @@ h3 {
   transform: translateY(-5px); /* Efecto sutil al pasar el mouse */
 }
 .card img {
+    display: block;
+  margin: 0 auto 15px auto;
   width: 50%;
   height: auto;
   background-color: 10px 4px 14px rgba(0, 0, 0, 0.08);
@@ -163,6 +172,7 @@ h3 {
   overflow-y: auto;
   z-index: 9999;
   border-radius: 12px;
+  transition: right .3s ease;
 
 }
 
@@ -242,24 +252,15 @@ h3 {
 }
 
 #close-cart {
-
   width: 40px;
   height: 40px;
-
   border-radius: 10px;
-
   border: 3px solid #222;
-
   background: #dfc29d;
-
   color: #a24ca2;
-
   font-size: 20px;
-
   cursor: pointer;
-
   box-shadow: 0 0 12px rgba(162,76,162,.5);
-
   transition: .2s;
 }
 
