@@ -1,5 +1,6 @@
 let products = [];
 let currentCategory = "todos";
+let cart = [];
 
 async function loadProducts() {
   const response = await fetch("products.json");
@@ -102,21 +103,52 @@ function renderProducts(items) {
               : ""
           }
         </div>
-        <div class="whatsapp-btn">
-          <a
-            href="https://wa.me/5491124648528?text=${encodeURIComponent(
-              `Hola Karen, me interesa ${product.name} - Precio: $${product.price}`
-          )}"
-            target="_blank"
-       >
-            Consultar por WhatsApp
-        </a>
-      </div>
+        <div class="cart-controls">
+          <input
+            type="number"
+            min="1"
+            value="0"
+            id="qty-${product.id}"
+            class="qty-input"
+          >
+
+          <button
+            class="add-cart-btn"
+            onclick="addToCart(${product.id})"
+          >
+            Agregar al carrito
+          </button>
+
+        </div>
       </div>
     `;
   });
 }
+function addToCart(productId) {
 
+  const product = products.find(
+    p => p.id === productId
+  );
+
+  const qty = parseInt(
+    document.getElementById(`qty-${productId}`).value
+  );
+
+  const existing = cart.find(
+    item => item.id === productId
+  );
+
+  if (existing) {
+    existing.qty += qty;
+  } else {
+    cart.push({
+      ...product,
+      qty
+    });
+  }
+
+  renderCart();
+}
 
 document.getElementById("search").addEventListener("input", filterProducts);
   
@@ -155,3 +187,127 @@ document
     });
 
   });
+
+  function calculateCart() {
+
+  let promoTotal = 0;
+  let normalTotal = 0;
+  let normalQty = 0;
+
+  cart.forEach(item => {
+
+    const subtotal = item.price * item.qty;
+
+    const isPromo =
+      normalizeText(item.category)
+      .includes("promo");
+
+    if (isPromo) {
+
+      promoTotal += subtotal;
+
+    } else {
+
+      normalTotal += subtotal;
+      normalQty += item.qty;
+
+    }
+
+  });
+
+  let discountPercent = 0;
+
+  if (normalQty === 1) {
+    discountPercent = 5;
+  } else if (normalQty === 2) {
+    discountPercent = 10;
+  } else if (normalQty >= 3) {
+    discountPercent = 15;
+  }
+
+  const discount =
+    normalTotal * discountPercent / 100;
+
+  const total =
+    normalTotal -
+    discount +
+    promoTotal;
+
+  return {
+    total,
+    discount,
+    discountPercent
+  };
+}
+
+function renderCart() {
+
+  const cartContainer =
+    document.getElementById("cart");
+
+  const totals = calculateCart();
+
+  let html = "";
+
+  cart.forEach(item => {
+
+    html += `
+      <div class="cart-item">
+        ${item.name}
+        x${item.qty}
+      </div>
+    `;
+  });
+
+  html += `
+    <hr>
+
+    <p>
+      Descuento:
+      ${totals.discountPercent}%
+    </p>
+
+    <p>
+      Total:
+      $${totals.total.toLocaleString()}
+    </p>
+
+    <button onclick="sendWhatsAppOrder()">
+      Finalizar Pedido
+    </button>
+  `;
+
+  cartContainer.innerHTML = html;
+}
+
+function sendWhatsAppOrder() {
+
+  const totals = calculateCart();
+
+  let message =
+`Hola Karen, te quiero realizar el siguiente pedido:
+
+`;
+
+  cart.forEach(item => {
+
+    message +=
+`🛒 ${item.name}
+Cantidad: ${item.qty}
+Precio: $${item.price.toLocaleString()}
+
+`;
+
+  });
+
+  message +=
+`Descuento aplicado: ${totals.discountPercent}%
+
+Total final: $${totals.total.toLocaleString()}
+`;
+
+  const url =
+`https://wa.me/5491124648528?text=${encodeURIComponent(message)}`;
+
+  window.open(url, "_blank");
+}

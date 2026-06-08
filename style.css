@@ -149,4 +149,43 @@ h3 {
   color: #666;
 }
 
+.cart-panel {
+  position: sticky;
+  : 20px;
+  background: rgb(243, 236, 214);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 12px;
+  box-shadow:
+    0 4px 12px  rgb(113, 24, 101);
+  
+  
+}
 
+.qty-input {
+  width: 60px;
+  margin-top: 10px;
+  border-radius: 8px;
+  justify-content: center;
+  color:   rgb(113, 24, 101);
+}
+
+.add-cart-btn {
+  margin-left: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+  color: rgb(161, 79, 150);
+  background: #eacaa2;
+  border-radius: 8px;
+    box-shadow:
+    0 4px 12px  rgb(113, 24, 101);
+  
+
+
+}
+
+.cart-item {
+  margin-bottom: 8px;
+  
+  
+}
