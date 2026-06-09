@@ -90,7 +90,6 @@ h3 {
 
 }
 
-
 .whatsapp-btn a:hover {
   opacity: 0.9;
 }
@@ -203,24 +202,42 @@ h3 {
   color: rgb(113, 24, 101);
   background: #5fc083;
   border-radius: 8px;
-    box-shadow:
-    0 4px 12px  rgb(113, 24, 101);
-
-
+  box-shadow:
+  0 4px 12px  rgb(113, 24, 101);
 }
 
 .cart-item  {
   margin-bottom: 10px;
 }
  
-  
-
-
 .cart-icon {
   position: sticky;
   cursor: pointer;
   font-size: 28px;
   display: inline-block;
+}
+.cart-item {
+  display: box;
+  gap: 10px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.cart-thumb {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.remove-btn {
+  DISPLAY: FLEX;
+  margin-left: auto;
+  border: none;
+  cursor: pointer;
+  background: transparent;
+  font-size: 18px;
 }
 
 #cart-count {
@@ -238,7 +255,6 @@ h3 {
   font-size: 12px;
   font-weight: bold;
 }
-
 
 .hidden {
   display: none;

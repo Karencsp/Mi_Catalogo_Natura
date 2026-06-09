@@ -138,9 +138,25 @@ function addToCart(productId) {
     item => item.id === productId
   );
 
-  if (existing) {
-    existing.qty += qty;
+  if (existing) { 
+    const newQty = existing.qty + qty;
+    if (newQty > product.stock) {
+      alert(
+      `Solo hay ${product.stock} unidades disponibles`
+      );
+    return;
+    }
+  existing.qty = newQty;
+
   } else {
+
+    if (qty > product.stock) {    
+      alert(
+      `Solo hay ${product.stock} unidades disponibles`
+      );
+    return;
+    }
+
     cart.push({
       ...product,
       qty
@@ -204,27 +220,22 @@ document
       .includes("promo");
 
     if (isPromo) {
-
       promoTotal += subtotal;
-
     } else {
-
       normalTotal += subtotal;
       normalQty += item.qty;
-
     }
-
   });
 
   let discountPercent = 0;
 
-  if (normalQty === 1) {
-    discountPercent = 5;
-  } else if (normalQty === 2) {
-    discountPercent = 10;
-  } else if (normalQty >= 3) {
-    discountPercent = 15;
-  }
+    if (normalQty === 1) {
+      discountPercent = 5;
+    } else if (normalQty === 2) {
+      discountPercent = 10;
+    } else if (normalQty >= 3) {
+      discountPercent = 15;
+    }
 
   const discount =
     normalTotal * discountPercent / 100;
@@ -256,6 +267,11 @@ function renderCart() {
 
     html += `
       <div class="cart-item">
+        <img
+        src="${item.image}"
+        class="cart-thumb"
+        >
+      <div class="cart-item-info">
 
         <strong>
         ${item.name}
@@ -273,7 +289,28 @@ function renderCart() {
         </strong>
 
       </div>
-    `;
+            <div class="qty-controls">
+        <button onclick="decreaseQty(${item.id})">
+          -
+        </button>
+        <span>
+          ${item.qty}
+        </span>
+        <button onclick="increaseQty(${item.id})">
+          +
+        </button>
+      </div>
+
+      <div>
+        <button
+          class="remove-btn"
+          onclick="removeItem(${item.id})"
+        >
+          🗑
+        </button>
+      </div>
+
+        `;
   });
 
   html += `
@@ -294,6 +331,14 @@ function renderCart() {
       onclick="sendWhatsAppOrder()">
       Enviar pedido por WhatsApp
     </button>
+    
+    <button
+      class="clear-cart-btn"
+      onclick="clearCart()"
+    >
+      Vaciar carrito
+    </button>
+
   `;
 
   cartContainer.innerHTML = html;
@@ -315,9 +360,8 @@ function sendWhatsAppOrder() {
   const totals = calculateCart();
 
   let message =
-`Hola Karen, te quiero realizar el siguiente pedido:
-
-`;
+    `Hola Karen, te quiero realizar el siguiente pedido:
+    `;
 
   cart.forEach(item => {
 
@@ -325,7 +369,6 @@ function sendWhatsAppOrder() {
 `🛒 ${item.name}
 Cantidad: ${item.qty}
 Precio: $${item.price.toLocaleString()}
-
 `;
 
   });
@@ -340,6 +383,7 @@ Total final: $${totals.total.toLocaleString()}
 `https://wa.me/5491124648528?text=${encodeURIComponent(message)}`;
 
   window.open(url, "_blank");
+  
 }
 
 //Abrir el carrito
@@ -363,3 +407,74 @@ document
       .classList.add("hidden");
 
   });
+//NO ingresar mas cant que las de STOCK
+  function increaseQty(productId) {
+
+  const item =
+    cart.find(p => p.id === productId);
+
+    if (!item) return;
+    if (item.qty >= item.stock) {
+      alert(
+        `Solo hay ${item.stock} unidades disponibles`
+      );
+      return;
+    }
+
+  item.qty++;
+
+  renderCart();
+  updateCartCount();
+};
+
+//Modificar cantidades desde el carrito
+function decreaseQty(productId) {
+
+  const item =
+    cart.find(p => p.id === productId);
+
+    if (!item) return;
+    item.qty--;
+
+    if (item.qty <= 0) {
+      cart = cart.filter(
+        p => p.id !== productId
+      );
+    }
+
+  renderCart();
+  updateCartCount();
+}
+
+function removeItem(productId) {
+  cart = cart.filter(
+    item => item.id !== productId
+  );
+
+  renderCart();
+  updateCartCount();
+}
+
+function clearCart() {
+
+  if (
+    !confirm(
+      "¿Deseas vaciar el carrito?"
+    )
+  ) return;
+  cart = [];
+
+  renderCart();
+  updateCartCount();
+}
+
+//Guarda Carrito aunque cierre la pagina
+localStorage.setItem(
+  "cart",
+  JSON.stringify(cart)
+);
+
+cart =
+  JSON.parse(
+    localStorage.getItem("cart")
+  ) || [];
