@@ -31,11 +31,13 @@ function filterProducts() {
     const name = normalizeText(product.name);
     const category = normalizeText(product.category);
     const description = normalizeText(product.description);
+    const color = normalizeText(product.Color);
     
     return (
       name.includes(searchValue) ||
       category.includes(searchValue) ||
-      description.includes(searchValue)
+      description.includes(searchValue) ||
+      color.includes(searchValue)
     );
    
   });
@@ -281,13 +283,12 @@ function renderCart() {
          ${item.qty}
           x
           $${item.price.toLocaleString()}
+          <strong>
+          =
+          $${itemTotal.toLocaleString()}
+          </strong>
         <br>
         
-        <strong>
-        =
-        $${itemTotal.toLocaleString()}
-        </strong>
-
       </div>
             <div class="qty-controls">
         <button onclick="decreaseQty(${item.id})">
@@ -321,16 +322,20 @@ function renderCart() {
       ${totals.discountPercent}%
     </p>
 
-    <p>
-      Total:
-      $${totals.total.toLocaleString()}
-    </p>
+    <strong>
+      <p>
+        Valor Total:
+        $${totals.total.toLocaleString()}
+      </p>
+    </strong>
 
     <button 
-      class="Whatsapp-btn"  
-      onclick="sendWhatsAppOrder()">
-      Enviar pedido por WhatsApp
-    </button>
+          class="Whatsapp-btn"  
+          onclick="sendWhatsAppOrder()">
+        <strong>
+          Enviar pedido por WhatsApp
+        </strong>
+      </button>
     
     <button
       class="clear-cart-btn"
