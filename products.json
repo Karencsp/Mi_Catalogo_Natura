@@ -9,6 +9,38 @@
     "image": "assets/img/CHR-RF-AguaMicelar.PNG",
     "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
   },
+
+  {
+    "id": 83,
+    "name": "Gel crema antiseñales​ firmeza y luminosidad 45+ 40 g- Chronos",
+    "price": 65700,
+    "stock": 2,
+    "Color": "Día",
+    "category": "Rostro, Chronos",
+    "image": "assets/img/CHR-CA45-Dia.PNG",
+    "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
+  },
+  {
+    "id": 84,
+    "name": "Gel crema antiseñales​ firmeza y luminosidad 45+ 40 g- Chronos",
+    "price": 65700,
+    "stock": 1,
+    "Color": "Noche",
+    "category": "Rostro, Chronos",
+    "image": "assets/img/CHR-CA45-Noche.PNG",
+    "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
+  },
+  {
+    "id": 85,
+    "name": "Repuesto Gel crema antiseñales​ firmeza y luminosidad 45+ 40 g- Chronos",
+    "price": 46000,
+    "stock": 1,
+    "Color": "Noche",
+    "category": "Rostro, Chronos",
+    "image": "assets/img/CHR-CA45-RFNoche.PNG",
+    "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
+  },
+
   {
     "id": 53,
     "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
