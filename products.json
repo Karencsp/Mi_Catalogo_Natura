@@ -1,16 +1,5 @@
 [
   {
-    "id": 80,
-    "name": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos",
-    "price": 21600,
-    "stock": 2,
-    "Color": "Demaquillante Suave",
-    "category": "Rostro, Chronos",
-    "image": "assets/img/CHR-RF-AguaMicelar.PNG",
-    "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
-  },
-
-  {
     "id": 83,
     "name": "Gel crema antiseñales​ firmeza y luminosidad 45+ 40 g- Chronos",
     "price": 65700,
@@ -18,7 +7,7 @@
     "Color": "Día",
     "category": "Rostro, Chronos",
     "image": "assets/img/CHR-CA45-Dia.PNG",
-    "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
+    "description": "Gel crema antiseñales​ firmeza y luminosidad 45+ 40 g- Chronos."
   },
   {
     "id": 84,
@@ -28,20 +17,70 @@
     "Color": "Noche",
     "category": "Rostro, Chronos",
     "image": "assets/img/CHR-CA45-Noche.PNG",
-    "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
+    "description": "Gel crema antiseñales​ firmeza y luminosidad 45+ 40 g- Chronos."
   },
   {
     "id": 85,
     "name": "Repuesto Gel crema antiseñales​ firmeza y luminosidad 45+ 40 g- Chronos",
     "price": 46000,
-    "stock": 1,
+    "stock": 2,
     "Color": "Noche",
     "category": "Rostro, Chronos",
     "image": "assets/img/CHR-CA45-RFNoche.PNG",
+    "description": "Repuesto Gel crema antiseñales​ firmeza y luminosidad 45+ 40 g- Chronos."
+  },
+    {
+    "id": 80,
+    "name": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos",
+    "price": 21600,
+    "stock": 1,
+    "Color": "Demaquillante Suave",
+    "category": "Rostro, Chronos",
+    "image": "assets/img/CHR-RF-AguaMicelar.PNG",
     "description": "Agua micelar desmaquillante suave repuesto - 150 ml - Chronos."
   },
-
   {
+    "id": 86,
+    "name": "Esencia de tratamiento repuesto - 100 ml - Chronos",
+    "price": 39400,
+    "stock": 2,
+    "Color": "Dermoactivos: Posbiotico, Prebiotico, Vit C, Ácido Hialurónico",
+    "category": "Rostro, Chronos",
+    "image": "assets/img/CHR-RF-Esencia.PNG",
+    "description": "Esencia de tratamiento repuesto - 100 ml - Chronos."
+  },
+  {
+    "id": 87,
+    "name": "Sérum intensivo antioxidante - 15 ml - Chronos",
+    "price": 78300,
+    "stock": 1,
+    "Color": "Activo doble vitamina C 15%",
+    "category": "Rostro, Chronos",
+    "image": "assets/img/CHR-SR-Antioxidante.PNG",
+    "description": "Sérum intensivo antioxidante - 15 ml - Chronos."
+  },
+  {
+    "id": 88,
+    "name": "Polvo de limpieza enzimático - 50 g - Chronos",
+    "price": 36100,
+    "stock": 1,
+    "Color": "Todos los tonos y tipos de piel",
+    "category": "Rostro, Chronos",
+    "image": "assets/img/CHR-PL-Enzimatico.PNG",
+    "description": "Polvo de limpieza enzimático - 50 g - Chronos."
+  },
+  {
+    "id": 89,
+    "name": "Bruma facial hidratante fijadora - 100 ml - Una",
+    "price": 48300,
+    "stock": 2,
+    "Color": "Todos los tonos y tipos de piel",
+    "category": "Rostro, UNA",
+    "image": "assets/img/UNA-BrumaFijadora.PNG",
+    "description": "Bruma facial hidratante fijadora - 100 ml - Una."
+  },
+
+  { 
     "id": 53,
     "name": "Desodorante Antitranspirante Roll-on 70 ml - Tododia",
     "price": 6100,
@@ -586,8 +625,8 @@
     "id": 52,
     "name": "Jabón en Barra Puro Vegetal Cremosos 4 un de 100 gr. - Ekos",
     "price": 19300,
-    "stock": 0,
-    "Color": "Cremosos varios",
+    "stock": 1,
+    "Color": "Ucuuba, Maracuya, Andiroba, Castaña",
     "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-JB-Cremosos.PNG",
     "description": "Jabón en Barra Puro Vegetal Cremosos 4 unidades."
