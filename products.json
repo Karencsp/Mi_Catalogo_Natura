@@ -79,6 +79,36 @@
     "image": "assets/img/UNA-BrumaFijadora.PNG",
     "description": "Bruma facial hidratante fijadora - 100 ml - Una."
   },
+  {
+    "id": 90,
+    "name": "Primer blur - 30 ml - Una",
+    "price": 38700,
+    "stock": 1,
+    "Color": "Todos los tipos de piel",
+    "category": "Rostro, UNA",
+    "image": "assets/img/UNA-PrimerBlur.PNG",
+    "description": "Primer blur - 30 ml - Una."
+  },
+  {
+    "id": 91,
+    "name": "Sérum labial incoloro - 1,8 g - Una",
+    "price": 26500,
+    "stock": 2,
+    "Color": "Aceite de jojoba y manteca de cupuaçu",
+    "category": "Rostro, UNA",
+    "image": "assets/img/UNA-SerumLabial.PNG",
+    "description": "Sérum labial incoloro - 1,8 g - Una."
+  },
+  {
+    "id": 92,
+    "name": "Máscara volumen magnífico a prueba de agua - 8 ml - Una",
+    "price": 36600,
+    "stock": 1,
+    "Color": "Hasta 9X más volumen*, alargamiento y definición",
+    "category": "Rostro, UNA",
+    "image": "assets/img/UNA-MascaraVolAgua.PNG",
+    "description": "Máscara volumen magnífico a prueba de agua - 8 ml - Una."
+  },
 
   { 
     "id": 53,
