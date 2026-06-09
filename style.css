@@ -206,6 +206,18 @@ h3 {
   0 4px 12px  rgb(113, 24, 101);
 }
 
+.clear-cart-btn {
+  display: auto;
+  margin-left: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+  color: rgb(113, 24, 101);
+  background: #eacaa2;
+  border-radius: 8px;
+    box-shadow:
+    0 4px 12px  rgb(113, 24, 101);
+  
+}
 .cart-item  {
   margin-bottom: 10px;
 }
@@ -229,6 +241,11 @@ h3 {
   height: 40px;
   object-fit: contain;
   flex-shrink: 0;
+  background-color: 10px 4px 14px rgba(0, 0, 0, 0.08);
+  aspect-ratio: 1 / 1;
+  object-fit: contain; /* Para que no se corte el producto */
+  mix-blend-mode: multiply; 
+
 }
 
 .remove-btn {
