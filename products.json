@@ -113,7 +113,7 @@
     "id": 93,
     "name": "Máscara de pestañas multi HD lavable - 9 g - Una",
     "price": 46900,
-    "stock": 1,
+    "stock": 0,
     "Color": "88% más volumen¹ en las pestañas, 18% más alargamiento de las pestañas, 84% más definición² de las pestañas",
     "category": "Rostro, UNA",
     "image": "assets/img/UNA-MascaraMultiHD.PNG",
@@ -142,7 +142,7 @@
   },
   {
     "id": 96,
-    "name": "Delineador retráctil Faces - 280 mg - Faces",
+    "name": "Delineador retráctil - 280 mg - Faces",
     "price": 15400,
     "stock": 1,
     "Color": "Blanco Metalizado",
@@ -152,7 +152,7 @@
   },
   {
     "id": 97,
-    "name": "Delineador retráctil Faces - 280 mg - Faces",
+    "name": "Delineador retráctil - 280 mg - Faces",
     "price": 15400,
     "stock": 1,
     "Color": "Verde Metalizado",

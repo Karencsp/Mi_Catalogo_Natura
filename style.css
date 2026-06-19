@@ -16,18 +16,12 @@ header {
 
 h1 {
   margin: 10px 0 10px;
+  size: 5px;
   color: rgb(161, 79, 150);
   text-align: center;
-
 }
+
 h2 {
-  margin: 10px 0 10px;
-  color: rgb(161, 79, 150);
-  text-align: center;
-
-}
-
-h3 {
   margin: 10px 0 10px;
   size: 5px;
   color: rgb(113, 24, 101);
@@ -112,7 +106,6 @@ h3 {
   font-size: small;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-
 /* Agregarlo si quier el efecto de pasar el mouse !
 .card:hover {
   transform: translateY(-5px); /* Efecto sutil al pasar el mouse 
