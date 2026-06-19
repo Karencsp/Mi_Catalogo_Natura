@@ -90,7 +90,9 @@ function renderProducts(items) {
   availableProducts.forEach(product => {
     container.innerHTML += `
       <div class="card">
-        <img src="${product.image}" alt="${product.name}">
+        <div class="image-container">
+          <img src="${product.image}" alt="${product.name}">
+        </div>
         <div class="card-content">
           <h3>${product.name}</h3>
           <p>${product.description}</p>

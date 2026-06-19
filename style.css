@@ -20,7 +20,6 @@ h2 {
   font-size: 22px;
   color: rgb(161, 79, 150);
   text-align: center;
-
 }
 
 .category-filters {
@@ -114,13 +113,29 @@ h2 {
   object-fit: contain; /* Para que no se corte el producto */
   mix-blend-mode: multiply; 
   margin-bottom: 15px;
- 
 }
 
 .card img:hover {
   transform: translateY(-5px); /* Efecto sutil al pasar el mouse */
 }
 
+.image-container {
+  width: 100%;
+  height: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+.image-container img {
+  max-height: 120px;
+  max-width: 100%;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
 .card-content {
   padding: 15px;
 }
