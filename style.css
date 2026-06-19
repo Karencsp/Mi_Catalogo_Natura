@@ -14,18 +14,13 @@ header {
   border-bottom: 1px solid #ddd;
 }
 
-h1 {
-  margin: 10px 0 10px;
-  size: 5px;
+h1,
+h2 {
+  margin: 7px 0 ;
+  font-size: 22px;
   color: rgb(161, 79, 150);
   text-align: center;
-}
 
-h2 {
-  margin: 10px 0 10px;
-  size: 5px;
-  color: rgb(113, 24, 101);
-  text-align: center;
 }
 
 .category-filters {
