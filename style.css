@@ -34,8 +34,7 @@ h2 {
   flex-wrap: wrap;
   gap: 10px;
   margin-bottom: 15px;
- 
-  font-weight: bold;
+   font-weight: bold;
 }
 
 .filter-btn {
