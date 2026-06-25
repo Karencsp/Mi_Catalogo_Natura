@@ -100,6 +100,26 @@
     "description": "Sérum labial incoloro - 1,8 g - Una."
   },
   {
+    "id": 108,
+    "name": "Lápiz Retractil labial PRO - Una",
+    "price": 22900,
+    "stock": 1,
+    "Color": "Nude 2C",
+    "category": "Rostro, UNA",
+    "image": "assets/img/UNA-LabialRetractil-Nude2C.PNG",
+    "description": "Lápiz retractil labial PRO - Una."
+  },
+  {
+    "id": 109,
+    "name": "Gloss Labial Volumen Inmediato Una 5 ml - Una",
+    "price": 27800,
+    "stock": 1,
+    "Color": " Incoloro",
+    "category": "Rostro, UNA",
+    "image": "assets/img/UNA-Gloss-Incoloro.PNG",
+    "description": "Lápiz retractil labial PRO - Una."
+  },
+  {
     "id": 92,
     "name": "Máscara volumen magnífico a prueba de agua - 8 ml - Una",
     "price": 36600,
@@ -119,7 +139,6 @@
     "image": "assets/img/UNA-MascaraMultiHD.PNG",
     "description": "Máscara volumen magnífico a prueba de agua - 8 ml - Una."
   },
-
   {
     "id": 94,
     "name": "Sérum para cejas - 4 g - Una",
@@ -189,6 +208,16 @@
     "category": "Rostro, Faces",
     "image": "assets/img/FACES-MascTintAgua.PNG",
     "description": "Multimáscara tint a prueba de agua - 7 ml - Faces."
+  },
+  {
+    "id": 110,
+    "name": "Pincel Pro Rubor - UNA",
+    "price": 44900,
+    "stock": 1,
+    "Color": "Rubor - Cerdas Suaves",
+    "category": "Rostro, UNA",
+    "image": "assets/img/UNA-Pincel-Rubor.PNG",
+    "description": "Pincel Pro Rubor - UNA."
   },
 
   { 
@@ -461,6 +490,16 @@
     "Color": "Ciruela y Flor de Vainilla",
     "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-CNC-Ciruela.PNG",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
+    "id": 106,
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
+    "price": 20800,
+    "stock": 1,
+    "Color": "Frutilla y Vainilla Dorado",
+    "category": "Cuidado Diario, Todo Dia",
+    "image": "assets/img/TD-CNC-FrutillaVainillaD.PNG",
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
@@ -831,6 +870,16 @@
     "Color": "Té de Manzanilla y Lavanda",
     "category": "Cuidado Diario, Todo Dia",
     "image": "assets/img/TD-Jabonx5-Manzanilla.PNG",
+    "description": "Jabones en barra 5 unidades."
+  },
+  {
+    "id": 107,
+    "name": "Jabones en Barra Puro Vegetal 5 unidades x 90gr c/u.- Tododia",
+    "price": 14400,
+    "stock": 1,
+    "Color": "Frutilla y Vainilla Dorado",
+    "category": "Cuidado Diario, Todo Dia",
+    "image": "assets/img/TD-Jabonx5-FrutillaVainillaD.PNG",
     "description": "Jabones en barra 5 unidades."
   },
   {
