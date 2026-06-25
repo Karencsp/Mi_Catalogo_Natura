@@ -322,6 +322,16 @@
     "description": "Body Splash 200 ml."
   },
   {
+    "id": 105,
+    "name": "Oleo Trifásico Corporal Açaí 200 ml - Ekos",
+    "price": 26100,
+    "stock": 1,
+    "Color": "Acai",
+    "category": "Cuidado Diario, Ekos",
+    "image": "assets/img/Ekos-Oleo-Acai.PNG",
+    "description": "Oleo Trifásico Corporal Açaí 200 ml."
+  },
+  {
     "id": 72,
     "name": "Pulpa Crema Hidratante Corporal 400 ml - Ekos",
     "price": 27700,
@@ -527,7 +537,7 @@
     "id": 65,
     "name": "Crema Hidratante para Manos 75 g - Ekos",
     "price": 14000,
-    "stock": 8,
+    "stock": 10,
     "Color": "Castaña",
     "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Castana.PNG",
@@ -547,7 +557,7 @@
     "id": 67,
     "name": "Crema Hidratante para Manos 75 g - Ekos",
     "price": 14000,
-    "stock": 2,
+    "stock": 4,
     "Color": "Maracuya",
     "category": "Cuidado Diario, Ekos",
     "image": "assets/img/Ekos-CNM-Maracuya.PNG",
@@ -914,6 +924,27 @@
     "image": "assets/img/Plant-Spray-PerfumePelo.PNG",
     "description": "Spray para pelo Perfume 30ml 24hs."
   },
+  
+  {
+    "id": 39,
+    "name": "Shampoo Patauá 300 ml - Ekos",
+    "price": 14600,
+    "stock": 1,
+    "Color": "Patauá",
+    "category": "Cabello, Ekos",
+    "image": "assets/img/Ekos-SH-Pataua.PNG",
+    "description": "Shampoo Patauá 300 ml - Ekos."
+  },
+  {
+    "id": 40,
+    "name": "Acondicionador Patauá 300ml - Ekos",
+    "price": 14600,
+    "stock": 2,
+    "Color": "Patauá",
+    "category": "Cabello, Ekos",
+    "image": "assets/img/Ekos-AC-Pataua.PNG",
+    "description": "Acondicionador Patauá 300ml - Ekos."
+  },
   {
     "id": 28,
     "name": "Shampoo Antioleosidad 300ml - Lumina Promo!! NO SE APLICAN DESCUENTOS",
@@ -954,27 +985,17 @@
     "image": "assets/img/Lumina-AC-Antiseñales.PNG",
     "description": "Acondicionador Antiseñales 300ml."
   },
+  {
+    "id": 103,
+    "name": "Repuesto Acondicionador Nutrición y Reparación 300ml - Lumina",
+    "price": 9300,
+    "stock": 3,
+    "Color": "Nutrición y reparación para un cabello más resistente y saludable",
+    "category": "Cabello, Lumina",
+    "image": "assets/img/Lumina-AC-NutricionReparacion.PNG",
+    "description": "Acondicionador Nutrición y Reparación 300ml."
+  },
   
-  {
-    "id": 39,
-    "name": "Shampoo Patauá 300 ml - Ekos",
-    "price": 14600,
-    "stock": 1,
-    "Color": "Patauá",
-    "category": "Cabello, Ekos",
-    "image": "assets/img/Ekos-SH-Pataua.PNG",
-    "description": "Shampoo Patauá 300 ml - Ekos."
-  },
-  {
-    "id": 40,
-    "name": "Acondicionador Patauá 300ml - Ekos",
-    "price": 14600,
-    "stock": 2,
-    "Color": "Patauá",
-    "category": "Cabello, Ekos",
-    "image": "assets/img/Ekos-AC-Pataua.PNG",
-    "description": "Acondicionador Patauá 300ml - Ekos."
-  },
   {
     "id": 30,
     "name": "Shampoo Reparación 280ml - Tododia",
