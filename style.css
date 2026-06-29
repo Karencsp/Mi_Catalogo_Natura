@@ -12,6 +12,7 @@ header {
   position: sticky;
   top: 0;
   border-bottom: 1px solid #ddd;
+  z-index: 1000;
 }
 
 h1,
@@ -40,7 +41,6 @@ h2 {
   transition: .2s;
    color:  rgb(113, 24, 101);
   font-weight: bold;
-  
 }
 
 .filter-btn:hover {
@@ -98,6 +98,8 @@ h2 {
   align-items: center;
   font-size: small;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  z-index: 1;
 }
 /* Agregarlo si quier el efecto de pasar el mouse !
 .card:hover {
@@ -106,8 +108,6 @@ h2 {
 .card img {
   display: block;
   margin: 0 auto 15px auto;
-  width: 50%;
-  height: auto;
   background-color: 10px 4px 14px rgba(0, 0, 0, 0.08);
   aspect-ratio: 1 / 1;
   object-fit: contain; /* Para que no se corte el producto */
@@ -130,11 +130,12 @@ h2 {
 }
 
 .image-container img {
-  max-height: 120px;
-  max-width: 100%;
-  width: auto;
+  height: 110px;
+  width: 110px;
   object-fit: contain;
   display: block;
+  mix-blend-mode: multiply;
+  transition: transform .2s;
 }
 .card-content {
   padding: 15px;
@@ -307,4 +308,37 @@ h2 {
 
 #close-cart:hover {
   transform: scale(1.05);
+}
+@media (max-width: 768px) {
+
+  header {
+    padding: 8px;
+  }
+
+  h1,
+  h2 {
+    font-size: 18px;
+    margin: 3px 0;
+    line-height: 1.2;
+  }
+
+  .category-filters {
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+
+  .filter-btn {
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+
+  .image-container {
+    height: 90px;
+  }
+
+  .image-container img {
+    width: 70px;
+    height: 70px;
+  }
+
 }
