@@ -283,7 +283,7 @@
   {
     "id": 44,
     "name": "Body Splash 200 ml - Tododia",
-    "price": 31500,
+    "price": 31900,
     "stock": 3,
     "Color": "Acerola y Hibisco",
     "category": "Cuidado Diario, Todo Dia",
@@ -293,7 +293,7 @@
     {
     "id": 45,
     "name": "Body Splash 200 ml - Tododia",
-    "price": 31500,
+    "price": 31900,
     "stock": 2,
     "Color": "Ciruela y Flor de Vainilla",
     "category": "Cuidado Diario, Todo Dia",
@@ -303,7 +303,7 @@
   {
     "id": 46,
     "name": "Body Splash 200 ml - Tododia",
-    "price": 31500,
+    "price": 31900,
     "stock": 1,
     "Color": "Agua de coco y mango rosa",
     "category": "Cuidado Diario, Todo Dia",
@@ -313,7 +313,7 @@
   {
     "id": 47,
     "name": "Body Splash 200 ml - Tododia",
-    "price": 31500,
+    "price": 31900,
     "stock": 3,
     "Color": "Macadamia",
     "category": "Cuidado Diario, Todo Dia",
@@ -323,7 +323,7 @@
   {
     "id": 48,
     "name": "Body Splash 200 ml - Tododia",
-    "price": 31500,
+    "price": 31900,
     "stock": 1,
     "Color": "Té de Manzanilla y Lavanda",
     "category": "Cuidado Diario, Todo Dia",
@@ -333,7 +333,7 @@
     {
     "id": 49,
     "name": "Body Splash 200 ml - Tododia",
-    "price": 31500,
+    "price": 31900,
     "stock": 1,
     "Color": "Granada Y Almendras Glaseadas",
     "category": "Cuidado Diario, Todo Dia",
@@ -343,7 +343,7 @@
   {
     "id": 50,
     "name": "Body Splash 200 ml - Tododia",
-    "price": 31500,
+    "price": 31900,
     "stock": 1,
     "Color": "Algodón",
     "category": "Cuidado Diario, Todo Dia",
@@ -505,7 +505,7 @@
   {
     "id": 8,
     "name": "Refill Crema nutritiva corporal 400 ml - Tododia",
-    "price": 15100,
+    "price": 15700,
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
     "category": "Cuidado Diario, Todo Dia",
@@ -625,7 +625,7 @@
   {
     "id": 70,
     "name": "Crema Hidratante para Manos 40 g - Ekos",
-    "price": 14000,
+    "price": 8700,
     "stock": 1,
     "Color": "Açai",
     "category": "Cuidado Diario, Ekos",
@@ -635,7 +635,7 @@
   {
     "id": 71,
     "name": "Crema Hidratante para Manos 40 g - Ekos",
-    "price": 14000,
+    "price": 8700,
     "stock": 1,
     "Color": "Maracuya",
     "category": "Cuidado Diario, Ekos",
@@ -645,7 +645,7 @@
   {
     "id": 10,
     "name": "Crema nutritiva para manos 50 g - Tododia",
-    "price": 13200,
+    "price": 10000,
     "stock": 2,
     "Color": "Ciruela y Flor de Vainilla",
     "category": "Cuidado Diario, Todo Dia",
@@ -655,7 +655,7 @@
   {
     "id": 11,
     "name": "Crema nutritiva para manos 50 g - Tododia",
-    "price": 13200,
+    "price": 10000,
     "stock": 1,
     "Color": "Cereza y Avellana",
     "category": "Cuidado Diario, Todo Dia",
@@ -745,7 +745,7 @@
   {
     "id": 17,
     "name": "Protector Solar Facial FPS 50 50ml",
-    "price": 28000,
+    "price": 27400,
     "stock": 1,
     "Color": "FPS 50 Piel Mixta a Grasa",
     "category": "Rostro, Solar",
@@ -755,7 +755,7 @@
   {
     "id": 18,
     "name": "Protector Solar Facial FPS 50 50ml",
-    "price": 28000,
+    "price": 27400,
     "stock": 1,
     "Color": "FPS 50 Piel Seca",
     "category": "Rostro, Solar",
@@ -765,7 +765,7 @@
   {
     "id": 19,
     "name": "Protector Solar Facial FPS 70 50ml",
-    "price": 28000,
+    "price": 31500,
     "stock": 1,
     "Color": "FPS 50 Piel Mixta a Grasa",
     "category": "Rostro, Solar",
@@ -775,7 +775,7 @@
   {
     "id": 20,
     "name": "Protector Solar Facial FPS 70 50ml",
-    "price": 28000,
+    "price": 31500,
     "stock": 1,
     "Color": "FPS 50 Piel Seca",
     "category": "Rostro, Solar",
@@ -907,7 +907,7 @@
     "id": 26,
     "name": "Crema para Peinar 180ml - Tododia",
     "price": 10900,
-    "stock": 2,
+    "stock": 1,
     "Color": "Flor de cereza y Palta",
     "category": "Cabello, Todo Dia",
     "image": "assets/img/TD-CP-Cereza.PNG",
@@ -917,7 +917,7 @@
     "id": 27,
     "name": "Crema para Peinar 180ml - Tododia",
     "price": 10900,
-    "stock": 1,
+    "stock": 0,
     "Color": "Durazno y Almendras",
     "category": "Cabello, Lumina",
     "image": "assets/img/TD-CP-Durazno.PNG",
