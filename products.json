@@ -503,6 +503,16 @@
     "description": "Todo Dia Crema Nutritiva Corporal."
   },
   {
+    "id": 111,
+    "name": "Crema nutritiva corporal 400 ml - Tododia",
+    "price": 20800,
+    "stock": 1,
+    "Color": "Frambuesa y Pimienta Rosa",
+    "category": "Cuidado Diario, Todo Dia",
+    "image": "assets/img/TD-CNC-FrambuesaPimientaRosa.PNG",
+    "description": "Todo Dia Crema Nutritiva Corporal."
+  },
+  {
     "id": 8,
     "name": "Refill Crema nutritiva corporal 400 ml - Tododia",
     "price": 15700,
