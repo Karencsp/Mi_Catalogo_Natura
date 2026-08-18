@@ -105,7 +105,7 @@
     "Color": "Rouge 4C",
     "category": "Rostro, UNA",
     "image": "assets/img/UNA-Labial-EConfortFPS25-RojoDior.PNG",
-    "description": "Labial extremo confort FPS 25 - 3,8 g - Una."
+    "description": "Labial CC Hidratante - 3,8 g - Una."
   },
   {
     "id": 120,
@@ -491,7 +491,7 @@
   },
   {
     "id": 8,
-    "name": "Refill Crema nutritiva corporal 400 ml - Tododia",
+    "name": "Repuesto Crema nutritiva corporal 400 ml - Tododia",
     "stock": 1,
     "Color": "Hojas de Limon y Guanabana",
     "category": "Cuidado Diario, Todo Dia",
@@ -500,7 +500,7 @@
   },
     {
     "id": 78,
-    "name": "Refill Crema nutritiva corporal 400 ml - Tododia",
+    "name": "Repuesto Crema nutritiva corporal 400 ml - Tododia",
     "stock": 1,
     "Color": "Ciruela y Flor de Vainilla",
     "category": "Cuidado Diario, Todo Dia",
@@ -883,7 +883,7 @@
   {
     "id": 29,
     "name": "Spray para pelo Brillo y Protección del Color 150ml - Lumina",
-    "stock": 1,
+    "stock": 2,
     "Color": "Proteccion del color",
     "category": "Cabello, Lumina",
     "image": "assets/img/Lumina-Spray-Color.PNG",
